@@ -1,1 +1,1925 @@
-["0 => ABingo\n", "0 => Acts as commentable with threading\n", "0 => Acts as loggable\n", "0 => Acts as nested set\n", "0 => Acts as network\n", "0 => Acts as restricted subdomain\n", "0 => Acts as soft deletable\n", "0 => Acts as taggable redux\n", "0 => Acts as wiki\n", "0 => Actsaswizard\n", "0 => Adva cms\n", "0 => Air budd form builder\n", "0 => Ajax-rdoc\n", "0 => Ajaxful-rating\n", "0 => Altered beast\n", "0 => Ambitious query indexer\n", "0 => Ansuz\n", "0 => Archaeopteryx\n", "0 => Assemblage\n", "0 => Attachment fu\n", "0 => Audit mass assignment\n", "0 => Authlogic ldap\n", "0 => Babushka\n", "0 => Backdrop\n", "0 => Background-fu\n", "0 => Backgroundrb\n", "0 => Backup fu\n", "0 => Bats\n", "0 => Beanstalkd\n", "0 => Better nested set\n", "0 => Better-edit-in-place\n", "0 => Big Tuna\n", "0 => Bigoldrailstemplate\n", "0 => Blank-application\n", "0 => Bliki\n", "0 => Blue-ridge\n", "0 => Bluelightspecial\n", "0 => Blueprints\n", "0 => Bootstrapper\n", "0 => Brain buster\n", "0 => Bundle-fu\n", "0 => CBA\n", "0 => CSSS\n", "0 => Cached externals\n", "0 => Campaign-monitor-ruby\n", "0 => Can search\n", "0 => ChiliProject\n", "0 => CoderDeck\n", "0 => Cohort\n", "0 => Collective\n", "0 => Communityengine\n", "0 => Context\n", "0 => Control center\n", "0 => Coral\n", "0 => Cosy\n", "0 => Couchrest-rails\n", "0 => Craken\n", "0 => Crap4r\n", "0 => Cross site sniper\n", "0 => Cruisecontrol.rb\n", "0 => Css dryer\n", "0 => Daemon generator\n", "0 => Db-populate\n", "0 => Deep-test\n", "0 => Defensio-ruby\n", "0 => Docbox\n", "0 => DocumentUp\n", "0 => Dotfiles\n", "0 => Enginey\n", "0 => Errbit\n", "0 => Facebook chat\n", "0 => Fat free crm\n", "0 => Fetcher\n", "0 => Find mass assignment\n", "0 => Fontue\n", "0 => Forgetmenot\n", "0 => Freemium\n", "0 => Frontcompiler\n", "0 => Gem resolver\n", "0 => Geo mere laal\n", "0 => Git-wiki\n", "0 => Google ajax libraries api\n", "0 => Google charts\n", "0 => Graylog2\n", "0 => Harsh\n", "0 => Has calendar\n", "0 => Has paginate\n", "0 => Has profile items\n", "0 => Hoboken\n", "0 => I18n backend database\n", "0 => Ical-scheduler\n", "0 => Im magick\n", "0 => In place editing\n", "0 => In place editor\n", "0 => In place rich editing\n", "0 => Inplace\n", "0 => Insoshi\n", "0 => Is rateable\n", "0 => Jazztoolbox\n", "0 => Job fu\n", "0 => Jquery edit in place\n", "0 => Jquery-mockjax\n", "0 => Jquery-presentation\n", "0 => Jquery-syntax\n", "0 => Jquery-ui-rails-helpers\n", "0 => Jrails in place editing\n", "0 => Js-preprocessor\n", "0 => Kii\n", "0 => Laminate\n", "0 => Lazy high charts\n", "0 => Lockbox\n", "0 => Lovd-by-less\n", "0 => Lucifer\n", "0 => Mail fetcher\n", "0 => Mail queue\n", "0 => Make resourceful\n", "0 => Menu components\n", "0 => Microformats helper\n", "0 => Minified cache\n", "0 => Mongo crm\n", "0 => Moonshine\n", "0 => Munger\n", "0 => Negative-captcha\n", "0 => Nilify blanks\n", "0 => Octopress\n", "0 => Open flash chart\n", "0 => Oupsnow\n", "0 => Padlock authorization\n", "0 => Parkaby\n", "0 => Partially valid\n", "0 => Passenger-stack\n", "0 => Perwikity\n", "0 => Pfeed\n", "0 => Phd\n", "0 => Quick scopes\n", "0 => R18n\n", "0 => Railfrog\n", "0 => Rails indexes\n", "0 => Rails-template\n", "0 => Rails-templates\n", "0 => Rakki\n", "0 => Raphael\n", "0 => Rdefensio\n", "0 => Record activities\n", "0 => Recurring event\n", "0 => Redmine\n", "0 => Report card\n", "0 => Reports as sparkline\n", "0 => Resources controller\n", "0 => Rest in place\n", "0 => Restful-authentication\n", "0 => Retrospectiva\n", "0 => Rifgraf\n", "0 => Riotjs\n", "0 => RoR eCommerce\n", "0 => Role requirement\n", "0 => Roleify\n", "0 => Rpg\n", "0 => Rspec-distributed\n", "0 => Ruby gnuplot\n", "0 => Ruby music projects\n", "0 => Ruby-cloudfiles\n", "0 => Ruby-date-recur\n", "0 => Rucksack\n", "0 => Rvm.el\n", "0 => S6\n", "0 => Salty slugs\n", "0 => Schedule fu\n", "0 => Scout-plugins\n", "0 => Selenium-on-rails\n", "0 => Semantic-menu\n", "0 => Shardthelove\n", "0 => Signal\n", "0 => Signal-wiki\n", "0 => Simple-captcha-mirror\n", "0 => Sinatra-rubygems\n", "0 => Sirb\n", "0 => Skyline\n", "0 => Sluggable-finder\n", "0 => Smqueue\n", "0 => Sprinkles\n", "0 => Streamlined\n", "0 => Stuffing\n", "0 => Stump\n", "0 => Subdomain account\n", "0 => Submarine\n", "0 => Summer\n", "0 => Super inplace controls\n", "0 => Superdeploy\n", "0 => Tab fu\n", "0 => Tab menu\n", "0 => Taskit\n", "0 => Teambox\n", "0 => Testjour\n", "0 => Testswarm\n", "0 => To slug\n", "0 => Tracktor\n", "0 => Translate routes\n", "0 => Travis\n", "0 => Tufte-graph\n", "0 => Twitter-search\n", "0 => Ultraviolence\n", "0 => User stamp\n", "0 => Utility-belt\n", "0 => Weaky\n", "0 => Weekly builder\n", "0 => Whenever.js\n", "0 => Wikipedia-api\n", "0 => Wizard\n", "0 => Worker queue\n", "0 => Xss terminate\n", "0 => Ym4r-gm\n", "0 => Yui on rails\n", "0 => acts_as_archival\n", "0 => amon\n", "0 => chruby\n", "0 => forem\n", "0 => fulcrum\n", "0 => giddyup\n", "0 => gitlabhq\n", "0 => guiderails\n", "0 => juvia\n", "0 => ldap-activerecord-gateway\n", "0 => less.rb\n", "0 => logstash\n", "0 => masochism\n", "0 => myitcrm2\n", "0 => rails-messaging\n", "0 => rails3-application-templates\n", "0 => railscrm\n", "0 => railsyardcms\n", "0 => rbenv\n", "0 => rbfu\n", "0 => reru_scrum\n", "0 => ruby-build\n", "0 => seven_minute_abs\n", "0 => taskrey\n", "0 => thredded\n", "10019 => configloader\n", "1005 => feedly_api\n", "10080 => gaston\n", "10094 => Imagery\n", "10097 => socialization\n", "1011 => octonore\n", "10118 => indy\n", "1014 => simply_paginate\n", "1015437 => ruby-progressbar\n", "10162 => acts_as_friendable\n", "101876 => Roxml\n", "10222 => navi\n", "102407 => BrowserCMS\n", "10261 => slugged\n", "10274 => gitara\n", "1027517 => em-http-request\n", "102765 => progress\n", "103111 => geminabox\n", "103182 => ActiveAssets\n", "1035 => Station\n", "10352 => nimbleshop\n", "1037 => tickspot-rb\n", "103729 => Looksee\n", "10373 => technical_graph\n", "10403473 => Uglifier\n", "10408 => Has alter ego\n", "10450 => configulations\n", "10451 => sorting_table_for\n", "104537 => Db-charmer\n", "1045731 => email_spec\n", "10460 => bandit\n", "10473 => ObfuscateId\n", "1047956 => better_errors\n", "10480 => Renee\n", "10480 => ccsv\n", "10488 => ruhoh\n", "1049 => rend-acl\n", "1050 => colombo\n", "1057961 => em-websocket\n", "10590 => fedex\n", "10592 => mince\n", "106197 => Ohm\n", "106496 => mail_view\n", "10656 => Polonium\n", "10664 => OptionParser\n", "10678 => qwandry\n", "1068 => redirect_on_back\n", "106851 => localeapp\n", "10703 => Integrity\n", "107532 => ruby-mysql\n", "10754 => Tach\n", "107548 => SocialStream\n", "10778 => rexchange\n", "1080 => calendrier\n", "10803 => marley\n", "108100 => foodcritic\n", "1081775 => Hirb\n", "1082024 => VCR\n", "10858 => display_case\n", "1086347 => colored\n", "10903 => Rails Email Preview\n", "10906 => brewdler\n", "10914 => qu\n", "1093 => eztz\n", "10956 => table_for_collection\n", "109573 => Nanoc\n", "1096530 => FriendlyId\n", "10989 => tr8n\n", "11008 => write_xlsx\n", "1104 => Right flexiscale\n", "110432 => Bones\n", "1109 => Testy\n", "111093 => crummy\n", "11113 => Netrecorder\n", "11146 => vacuum\n", "11161 => monkeybars\n", "11170 => method_profiler\n", "11204 => opal-rails\n", "11204 => redis-search\n", "1121 => Simply versioned\n", "11210 => leaflet-rails\n", "112116 => postgres-pr\n", "11218 => authorizme\n", "1122 => boris\n", "1123775 => bourbon\n", "112442 => bugsnag\n", "11284328 => ExecJS\n", "1129 => rss-opds\n", "11304068 => RSpec\n", "11313 => Shippinglogic\n", "11327 => pelusa\n", "11334 => Jake\n", "1135 => Opal\n", "11372 => nofxx-georuby\n", "11375 => Acts as rateable\n", "1139039 => extlib\n", "113935 => Split\n", "11399085 => rspec-mocks\n", "114437 => Newgem\n", "1148108 => DataMapper\n", "11487 => porter\n", "11507 => Ebay\n", "115340 => Contacts\n", "1154 => new_relic_ping\n", "1155197 => Authlogic\n", "11568 => metro\n", "11603 => magickly\n", "11623 => pkcs11\n", "116277 => Clearance\n", "116296 => rack-livereload\n", "1163 => sprocketize\n", "11657 => gofer\n", "1166116 => Twitter\n", "1166561 => Celluloid\n", "116662 => apartment\n", "11684 => backburner\n", "11711 => Midiator\n", "11723 => guard-rubocop\n", "1175 => georuby_remake\n", "1176827 => Puppet\n", "1178425 => jbuilder\n", "11801 => Diakonos\n", "118038 => youtube_it\n", "11806 => amico\n", "1181 => Webstats\n", "1185 => goldberg\n", "1185464 => spreadsheet\n", "11886 => annotator\n", "1189421 => Webrat\n", "119107 => Transitions\n", "11933 => Odf-report\n", "1196 => htcp\n", "12016 => excel_rails\n", "12054 => icebreaker\n", "1210 => Sso what\n", "12104 => thinreports\n", "12134 => Walruz\n", "12138 => letmein\n", "12151 => Zen\n", "12195 => Lemon\n", "12212 => supply_drop\n", "12250 => bldr\n", "12333 => logging_assist\n", "12351 => turnout\n", "1236629 => Trollop\n", "123795 => Trinidad\n", "12385 => config_parser\n", "12401 => ffi-tk\n", "124276 => breadcrumbs_on_rails\n", "124292 => sensu\n", "1243 => Time-zone-warp\n", "1247 => Model translations\n", "12471 => strelka\n", "12485 => recommendify\n", "12503 => appscrolls\n", "125281 => createsend\n", "1253 => discuss\n", "12533 => best_boy\n", "12534 => central_logger\n", "125498 => anjlab-bootstrap-rails\n", "12557 => qrencoder\n", "12570 => machined\n", "1258092 => temple\n", "1259070 => Rcov\n", "12595 => Infinity Test\n", "1261438 => Rdiscount\n", "1264470 => Acts as list\n", "12645 => divining_rod\n", "126575 => konacha\n", "12665 => pundit\n", "127139 => Acts as paranoid\n", "12730 => quebert\n", "127337 => data_miner\n", "1273755 => Acts-as-taggable-on\n", "1273785 => Stringex\n", "12748 => stickler\n", "12761 => Userstamp\n", "12809 => Copy\n", "1282 => rss-nokogiri\n", "128234 => GeoRuby\n", "1285546 => Slim\n", "12875 => rews\n", "12884 => griddler\n", "1291 => pagseguro_v2\n", "129217 => jslint_on_rails\n", "1294 => Gitki\n", "13077 => commontator\n", "131053 => heroku_san\n", "1313176 => MiniMagick\n", "13144 => Rockstar\n", "13147 => sudo_attributes\n", "13156 => ntail\n", "131750 => Flickraw\n", "13263 => toast\n", "133097 => rqrcode\n", "13316 => cucumber-screenshot\n", "1332 => Harbor\n", "13336 => httplog\n", "1334020 => nori\n", "1337 => alpaca\n", "13373 => bench_press\n", "1342 => simple_importer\n", "13422 => docile\n", "1342469 => Curb\n", "13428 => doc\n", "1343 => honor\n", "1343 => ruty\n", "134343 => railroady\n", "13448 => brochure\n", "13449 => dry_crud\n", "13468 => geoip\n", "13480 => rchart\n", "13509 => Reportable\n", "135397 => Linkedin\n", "13552 => to_lang\n", "135569 => Ferret\n", "135702 => interactive_editor\n", "13577 => backupit\n", "13601 => Ebb\n", "13601 => Flickr fu\n", "136078 => audited\n", "13623 => ariane\n", "1364162 => Savon\n", "1366276 => Active Merchant\n", "13670 => Prologue\n", "1368 => paypal_calculator\n", "1369 => Feedtosis\n", "1369145 => Mongrel\n", "137001 => Redcar\n", "1370926 => Bluepill\n", "13712 => dtf\n", "13712 => feed_parser\n", "13739 => Puret\n", "1374 => moulin_rouge\n", "13744 => unread\n", "138159 => tddium\n", "1382 => pin_up\n", "1383 => acts_as_executor\n", "13857 => rails_exception_handler\n", "1388595 => test-unit\n", "1391256 => Less\n", "139137 => six\n", "1392 => Stylish\n", "1392713 => Gyoku\n", "139387 => Acts as audited\n", "1394 => raptest\n", "139433 => github_api\n", "13947 => Rtex\n", "13950 => zeus-parallel_tests\n", "139521 => Populator\n", "140658 => Merb\n", "1407 => gosu_android\n", "14085 => Remit\n", "14103 => Robustthread\n", "14107 => Sentry\n", "1411 => arg0\n", "14150 => gritano\n", "1421 => rjiffy\n", "142354 => inline_forms\n", "14357 => mongoid_geospatial\n", "14365 => wiselinks\n", "14371 => auditable\n", "14372 => Slug\n", "14454 => sucker_punch\n", "14482085 => Sass\n", "144936 => activerecord-jdbcderby-adapter\n", "14517 => fake_dynamo\n", "1453 => mail_room\n", "14540656 => Sprockets\n", "145437 => Rubber\n", "14550 => Gotcha\n", "1455261 => HTTPI\n", "14567 => TimelineFu\n", "145804 => berkshelf\n", "14588 => table_print\n", "14643 => jquery.fileupload-rails\n", "146777 => Default value for\n", "1470 => multi_markdown\n", "14749 => Braid\n", "1479 => opds_monster\n", "14850 => tagen\n", "148633 => Active Enum\n", "1487 => Runner\n", "1491486 => Inherited resources\n", "149428 => active_link_to\n", "149828 => activerecord-postgis-adapter\n", "15013 => governor\n", "15013 => kronic\n", "15017 => miniskirt\n", "1506 => ns_connector\n", "1507 => rack-i18n_routes\n", "1509 => stevedore\n", "15104 => git-deploy\n", "1511 => destroyed_at\n", "1512 => Is reviewable\n", "15132 => Bdoc\n", "15156 => Simple-daemon\n", "15175 => Globalize2\n", "15190 => Cross-stub\n", "152130 => Sorcery\n", "1526010 => Sequel\n", "1527803 => Rufus-scheduler\n", "1530618 => Libxml-ruby\n", "1531893 => Mongoid\n", "153285 => Daemon-spawn\n", "1534 => git_time_extractor\n", "153722 => rails3_acts_as_paranoid\n", "1542 => benchmarkable\n", "15430 => PageTemplate\n", "15451 => spawn\n", "15488 => multi_db\n", "15493 => rfeedparser\n", "15521 => fidgit\n", "156048 => Gruff\n", "15610 => rqrcode_png\n", "15631 => macros4cuke\n", "15652 => absurdity\n", "1566 => fallen\n", "156862 => Patron\n", "15698 => Acts as taggable on steroids\n", "1570838 => Shoulda\n", "157177 => pg_search\n", "1573925 => log4r\n", "15741 => surrogate\n", "15759 => Xebec\n", "15772 => mail_style\n", "15790 => tork\n", "1580 => ci-go-nfo\n", "15864 => binman\n", "158876 => librarian\n", "15896 => test_inline\n", "15899 => rocket_tag\n", "1590 => gerbil-rails\n", "159034 => Bond\n", "15907 => configurability\n", "15919742 => RDoc\n", "15946 => opal-spec\n", "15954 => vk-ruby\n", "1596 => talk_like_a_pirate\n", "159638 => Workflow\n", "16009 => Casein\n", "16016 => Midilib\n", "16018255 => Nokogiri\n", "16055 => Mailhopper\n", "16059 => recommendable\n", "1608084 => Redcarpet\n", "16108 => rqr\n", "16151 => musicbrainz\n", "16152 => bootstrap_form\n", "16188 => table-for\n", "1623 => Rails metrics\n", "16284 => puffer_pages\n", "1629 => gambas\n", "1631 => codesake-dawn\n", "16323 => simple_state_machine\n", "16329 => rest-assured\n", "16345 => inversion\n", "1639964 => Mechanize\n", "16403 => chronic_between\n", "16421 => confstruct\n", "1645 => JCov\n", "1646968 => Whenever\n", "16480 => mousetrap-rails\n", "165021 => Comfortable Mexican Sofa\n", "16508 => Hanna\n", "16578 => cuke_sniffer\n", "16602 => activerecord-turntable\n", "16631 => ajax_pagination\n", "16648 => ruby-bitly\n", "16668864 => Bundler\n", "167604 => request-log-analyzer\n", "16764 => dynamoid\n", "167795 => Steak\n", "1679 => ezgit\n", "168110 => cocoon\n", "16856 => lolcat\n", "16868 => harness\n", "1688 => mongoid-rating\n", "16888 => the_role\n", "16891 => arboreal\n", "16900 => MundoPepino\n", "1696 => rack-user-locale\n", "17013 => Twitterland\n", "170318 => Acts as ferret\n", "17035 => simple_xlsx_writer\n", "170561 => Redis Objects\n", "1708 => health_rails\n", "1708 => paranoid2\n", "17157 => Seer\n", "1721 => Has many friends\n", "17268 => inline-style\n", "17296 => Resource controller\n", "1734 => Popthis\n", "17351 => Scrapi\n", "17386 => canard\n", "17466 => Navvy\n", "1750 => em-irc\n", "175503 => enumerize\n", "175750 => Rails-footnotes\n", "17590 => Ruby-processing\n", "1763 => checkzilla\n", "176423 => gelf\n", "1777480 => RightAWS\n", "17781 => mongoid_rateable\n", "1780 => desviar\n", "17856 => rails-settings\n", "178970 => Simple-rss\n", "178978 => Cane\n", "1793 => FixtureReplacement\n", "179508 => Watir\n", "1798 => half-pipe\n", "17998 => Erbook\n", "1801 => DocParser\n", "18023 => db2fog\n", "1817 => cucumber-pride\n", "181914 => mock_redis\n", "18252 => salad\n", "182795 => Barista\n", "182955 => DecentExposure\n", "18325 => crumble\n", "18357 => rainpress\n", "18388 => Scrubyt\n", "1839 => dotconfig\n", "18404 => gretel\n", "18407 => wlang\n", "18435 => vendorer\n", "18487 => Sake\n", "18490 => google_calendar\n", "18505 => adauth\n", "1852 => gifbot\n", "18526 => Whoops\n", "1857 => verified_double\n", "185933 => BestInPlace\n", "1867 => cargo_wiki\n", "18684 => Restful acl\n", "1870308 => Formtastic\n", "1872381 => RedCloth\n", "18725 => activeadmin-axlsx\n", "18737 => css_splitter\n", "18793 => Tarantula\n", "18813 => json-jwt\n", "1887 => georuby-ext\n", "189097 => Feedzirra\n", "190199 => Gosu\n", "1903787 => Heroku\n", "1904 => ppe-georuby\n", "19074 => mongodb_model\n", "19079 => amazon_flex_pay\n", "19083 => assert\n", "191128 => Twitter oauth\n", "19113 => cacheable_flash\n", "1913588 => Delayed job\n", "19153 => Ultraviolet\n", "19171 => user-agent\n", "191746 => Toadhopper\n", "19195 => Ore\n", "192627 => acts_as_api\n", "19289 => rack-insight\n", "193250 => Delorean\n", "1932872 => Yard\n", "1933 => mongoid_form\n", "193466 => Ice cube\n", "1940915 => Simple Form\n", "194216 => Echoe\n", "19457 => Defender\n", "194764 => http_accept_language\n", "19501 => foreverb\n", "19530 => Rails xss\n", "1956 => current_user\n", "19644 => symmetric-encryption\n", "196749 => Saikuro\n", "196931 => Appraisal\n", "19700 => bewildr\n", "19742 => Postgis adapter\n", "19767 => Later dude\n", "1976834 => Airbrake\n", "19778 => Octopi\n", "19782 => browsernizer\n", "19805 => Gamebox\n", "1981891 => Webmock\n", "1985 => Slope One\n", "1987 => similus\n", "19883 => Serious\n", "19941 => Param protected\n", "199512 => jdbc-postgres\n", "199678 => Happymapper\n", "199876 => Deprecated\n", "20005 => Lighthouse-api\n", "20032 => twitter_bootstrap_form_for\n", "20037 => gimli\n", "20039083 => Tilt\n", "2003939 => Daemon controller\n", "20098 => rack-locale_chooser\n", "201415 => Backup\n", "20169554 => Mail\n", "201710 => skinny\n", "20172 => quickl\n", "2022 => cartographie\n", "20244 => Princely\n", "202584 => Fast gettext\n", "20260 => gemedit\n", "2028997 => httpclient\n", "2030 => golem_statemachine\n", "203125 => high_voltage\n", "203143 => powerbar\n", "2033 => saxy\n", "20350 => postgres-copy\n", "20379 => image_sorcery\n", "204140 => Ruport\n", "2044 => ruploy\n", "2045 => twitter-bootswatch-rails-fontawesome\n", "2046 => Screw-unit-server\n", "2052 => cheap_random\n", "205382 => Albino\n", "20545909 => erubis\n", "205564 => Acts as commentable\n", "20615 => micon\n", "20716 => vfs\n", "2076 => how_slow\n", "20790 => Backgrounded\n", "207963 => Attr encrypted\n", "2085 => c3po\n", "2093 => Gitsu\n", "2099736 => Carrierwave\n", "21008 => Bj\n", "210133 => Roadie\n", "21021 => Delsolr\n", "21085 => dandelion\n", "211010 => ri_cal\n", "21110 => SitePrism\n", "2113 => Tm syntax highlighting\n", "211505 => faye\n", "21154 => leaderboard\n", "2119 => growlyflash\n", "212214 => RubyTree\n", "21240 => soft_deletion\n", "21322 => Markerb\n", "2135190 => Spork\n", "2138893 => foreman\n", "21427 => allowy\n", "21434 => automatic_foreign_key\n", "21459 => Nesta\n", "21539 => Pismo\n", "21569 => Rubyscript2exe\n", "2162330 => Timecop\n", "216441 => Figaro\n", "21660 => wisepdf\n", "2168767 => Aws-s3\n", "21761 => Stepdown\n", "21795 => Disqus\n", "218010 => Padrino\n", "218381 => zeus\n", "21925 => immortal\n", "2197253 => libwebsocket\n", "22001 => Deadweight\n", "220643 => gmaps4rails\n", "22074 => heroku-rails\n", "22212 => Rack hoptoad\n", "2222 => paypal-sdk-invoice\n", "22246 => stasis\n", "22262 => has_permalink\n", "22302 => tabletastic\n", "223097 => premailer\n", "2232 => webfinger\n", "2232506 => bootstrap-sass\n", "22358 => Dumper\n", "2238 => mountain_berry_fields\n", "223809 => Tmail\n", "224246 => rolify\n", "22571 => tabulous\n", "2263708 => Resque\n", "226607 => progress_bar\n", "227039 => Spree\n", "2271 => mocktra\n", "22754 => acts_as_hashish\n", "2278 => Simple ldap authenticator\n", "227978 => MailCatcher\n", "228031 => MetricFu\n", "22823 => Packr\n", "2283 => sinew\n", "2287 => SexyScopes\n", "2287032 => Faker\n", "2289 => Streamly\n", "22898 => Lilypad\n", "2290 => simple_mock\n", "230634 => Rails Admin\n", "23093 => cucumber-sinatra\n", "2311180 => Hoe\n", "23152 => humanizer\n", "2316392 => OmniAuth\n", "231887 => browser\n", "23279 => gem_hadar\n", "233412 => gibbon\n", "23354 => lolita\n", "23363 => rack-bug\n", "2338 => multitenant-mysql\n", "23391 => thesilverspoon\n", "23501 => pandoc-ruby\n", "23529 => sorted\n", "2356015 => guard-rspec\n", "2358 => rack-pygmentize\n", "23647 => Inochi\n", "23671 => activerecord-connections\n", "237 => ruby-dmm\n", "23767 => githug\n", "23890360 => Action Mailer\n", "2390 => Ruby-feedparser\n", "24030 => Canable\n", "24053 => video_info\n", "240589 => cmdparse\n", "2413 => prawn-rails\n", "2413 => runkeeper\n", "2418466 => Awesome print\n", "2429 => best_in_place_mongoid\n", "2430 => Flonkerton\n", "24308 => pickler\n", "24431 => acts_as_configurable\n", "24483 => tconsole\n", "24488 => kaminari-bootstrap\n", "2451 => Externals\n", "2457 => metriksd\n", "2460 => refinerycms-menus\n", "2469153 => sqlite3-ruby\n", "24708 => cantango\n", "24748 => georuby\n", "24818 => Runt\n", "24871 => Suspenders\n", "248786 => Roodi\n", "2491 => gmo\n", "2493 => Sortable\n", "24970 => Mofo\n", "2498 => Fistface\n", "250009 => Seed-fu\n", "2503 => qrtools\n", "25106 => irwi\n", "2511 => dev_panel\n", "251598 => axlsx\n", "2517 => sweet\n", "251828 => Couchrest\n", "2524 => cultome_player\n", "25241 => Devil\n", "25247918 => Active Record\n", "2537 => Rack-coderay\n", "25478 => Cijoe\n", "25485 => graphite-api\n", "25499 => breadcrumbs\n", "25535 => Beetle\n", "2560704 => ansi\n", "25699 => Zena\n", "2573 => ec2-blackout\n", "25736 => daemons-rails\n", "25737 => rqrcode-rails3\n", "257649 => ruby-oci8\n", "25773 => formize\n", "257760 => oracle-enhanced\n", "25810 => application_configuration\n", "2585 => whitelabel\n", "25859 => Ruby-activeldap\n", "25938816 => I18n\n", "259577 => google-spreadsheet-ruby\n", "25999 => api-client\n", "26023 => app\n", "2612204 => RMagick\n", "26165 => Restfulie\n", "262029 => Hominid\n", "26285 => Cuba\n", "2631 => commenter\n", "263291 => Honeybadger\n", "263390 => Garb\n", "2645 => sxrb\n", "2646 => raygun4ruby\n", "26465 => Espresso\n", "26471 => canonical-rails\n", "2649 => monban\n", "26490 => configurable_engine\n", "26514 => treequel\n", "26551 => Puffer\n", "26551740 => multi_json\n", "2656 => outlaw\n", "26628 => omnicontacts\n", "266463 => handlebars_assets\n", "26687 => dante\n", "2668860 => rubygems-bundler\n", "266929 => octokit\n", "26727 => crypt_keeper\n", "26733 => galetahub-simple_captcha\n", "2677 => Has ratings\n", "2678627 => websocket\n", "2679 => delegate_presenter\n", "26844 => combustion\n", "2695 => Dynamicmatic\n", "2697 => rss-dcterms\n", "2700 => mongoid_translate\n", "27034 => qtbindings\n", "27052 => Gchart\n", "27344 => SmartAsset\n", "274993 => Watchr\n", "275265 => rails_config\n", "2753166 => Passenger\n", "2754 => micromidi\n", "27573 => acts_as_xlsx\n", "2763 => motion-bundler\n", "27677 => ori\n", "2773 => Later\n", "2774 => spotlite\n", "2775663 => mixlib-cli\n", "2776 => Paged scopes\n", "2776 => Which ruby\n", "27782 => fasterer-csv\n", "27804164 => json\n", "27806 => Rugalytics\n", "278915 => Clockwork\n", "27892 => Coulda\n", "27909 => cucumber-in-the-yard\n", "27947 => rugged\n", "2796 => gem-newgem\n", "27971 => Weary\n", "2804059 => Cancan\n", "28107 => rspec_api_documentation\n", "2817 => danthes\n", "28189 => branston\n", "28206 => phrase\n", "28233 => enum_column3\n", "28234 => opal\n", "28298 => redhillonrails_core\n", "28320 => Data fabric\n", "28323 => Jammit-S3\n", "283344 => rack-rewrite\n", "28345 => Query trace\n", "2837 => test_engine\n", "28382 => prawnto_2\n", "284058 => Sax-machine\n", "28462 => Acts as solr reloaded\n", "2853142 => cocaine\n", "2854 => xml_active\n", "285646 => gli\n", "285670 => pickle\n", "2859 => cybele\n", "28619 => simple-navigation-bootstrap\n", "28636 => Visage\n", "28648 => auto_strip_attributes\n", "28651 => Scruffy\n", "28655 => Right-rails\n", "286832 => Middleman\n", "2869 => reputation\n", "28722 => Geokit-rails\n", "2873 => clortho\n", "28771 => Imdb\n", "28782 => lol_dba\n", "2879820 => Chef\n", "28937372 => Ruby on Rails\n", "289538 => Flexmock\n", "290 => vigil\n", "29011 => mina\n", "2901413 => Bunny\n", "29025 => authority\n", "290914 => Wicked pdf\n", "29114 => active_device\n", "29139 => enginex\n", "29155 => mongodb_logger\n", "2917372 => Hpricot\n", "2919097 => State machine\n", "2927 => albeano\n", "29342 => Rango\n", "29413 => sham\n", "2944 => mongoid-encrypted-fields\n", "29500 => Astrails-Safe\n", "2957986 => Kaminari\n", "29591 => Webby\n", "29669 => Rubygame\n", "297560 => Refinery CMS\n", "29795 => metainspector\n", "29855 => bootstrap_forms\n", "29904 => viewpoint\n", "29934 => Tagz\n", "29954 => capistrano_mailer\n", "30004 => Bonsai\n", "3002607 => Chronic\n", "30031 => admin_interface\n", "30083 => Alias\n", "301113 => Searchlogic\n", "30156 => Sparklines\n", "30181 => mobvious\n", "3036 => html-schema\n", "30367 => dashing\n", "3041 => diamond\n", "30528 => Chipmunk\n", "30558 => Optitron\n", "3060 => Looper\n", "3062 => Redis Aid\n", "30629 => rocket_pants\n", "306687 => configliere\n", "30677 => websocket-rack\n", "3075 => taggregator\n", "3076 => hasherize_csv\n", "3080 => job_reactor\n", "3089 => Rcov plugin\n", "309065 => ActiveScaffold\n", "30970 => stateflow\n", "310845 => aruba\n", "3124 => dibber\n", "3125 => searchlight\n", "31266324 => Active Support\n", "3127 => rss-atom-feed_history\n", "3148 => patterns\n", "314934 => Acts As Indexed\n", "315282 => Declarative authorization\n", "31544 => omniauth-ldap\n", "315612 => Googlecharts\n", "31577 => stylus\n", "315925 => Reek\n", "31612 => randumb\n", "31659 => Cloud-crowd\n", "31709 => Admin assistant\n", "31757 => merit\n", "3182 => health_checker\n", "318650 => aws-ses\n", "31883 => Ruote\n", "3189251 => Mongo Ruby Driver\n", "319250 => Cells\n", "3194 => rails_locale_detection\n", "319489 => activerecord-jdbcpostgresql-adapter\n", "3198 => poke_js\n", "3200 => wrap_excel\n", "3204 => best_in_placeish\n", "3204 => i18n-tasks\n", "32046 => Sprinkle\n", "321032 => Grape\n", "3213 => Spreadsheet report\n", "32170 => Pacecar\n", "32216 => hudson-remote-api\n", "323201 => clamp\n", "32427 => rabbit_jobs\n", "3251397 => SimpleCov\n", "3252 => rails-i18nterface\n", "32537 => user_agent_parser\n", "3255 => map_layers\n", "32550 => methadone\n", "3258 => sortah\n", "32660 => fozzie\n", "327041 => globalize3\n", "32706 => private_pub\n", "3271 => Mongo-i18n\n", "3280 => Resque Mail Queue\n", "3285 => historical\n", "329682 => Acts as tree\n", "3300 => rack-jquery\n", "3303343 => Guard\n", "33080 => xapian_db\n", "33119 => Time-warp\n", "3314 => mondrian-olap\n", "33146 => on_the_spot\n", "3320 => opds\n", "33241 => gattica\n", "332555 => meta_request\n", "3336 => optionalargument\n", "3336 => releasy\n", "3336738 => aws-sdk\n", "3338 => rails_instrument\n", "3349 => Amnesia\n", "33512 => PageRankr\n", "3352 => subly\n", "33591 => Piston\n", "336 => wwwtf\n", "3369 => Jintastic\n", "337674 => Facets\n", "33846270 => Rack\n", "33859 => Cucumber Factory\n", "33950 => app_config\n", "34057 => Permalink fu\n", "3412652 => RVM\n", "3414 => gnip-rule\n", "34176 => named-parameters\n", "3442 => Appsta\n", "34442 => Contest\n", "344719 => commander\n", "344872 => Forgery\n", "34488 => easy_roles\n", "345527 => active_model_serializers\n", "34567 => Wkhtmltopdf\n", "34590 => og\n", "3462 => rails-translate-models\n", "34649 => Google-translate\n", "34653 => Clogger\n", "347011 => Stripe\n", "3472 => user_config\n", "348100 => gon\n", "3484 => garnish\n", "349975 => Selenium-client\n", "350020 => main\n", "35062 => rouge\n", "3509 => core_image\n", "35105 => Ubiquo\n", "35132 => Grackle\n", "35203032 => Thor\n", "352484 => jdbc-mysql\n", "35270 => stripe_event\n", "35358 => simple_states\n", "35381 => mongrel2\n", "3539 => Filet\n", "35448 => SimplyStored\n", "3557452 => Fog\n", "355870 => Exceptional\n", "3563 => fileuploader-rails\n", "35640 => Frank\n", "3571 => Regulate\n", "3590 => Markup\n", "35915 => Radiant Shop\n", "35919 => Rackamole\n", "35945 => Inploy\n", "3605564 => term-ansicolor\n", "3610 => const_enum\n", "3627 => mailit\n", "363086 => Loofah\n", "36439 => gemfury\n", "365 => vkhater-redcarpet\n", "3653 => ofc2\n", "36573 => Sketches\n", "3660 => Micronaut\n", "366060 => brakeman\n", "3666 => cucumber-farmer\n", "36705 => vanilla\n", "3673 => inkwell\n", "36792 => CouchRest Model\n", "3682 => shell-spinner\n", "36859 => fullstack-admin\n", "3687 => I18nAutoScoping\n", "3693 => Stupid formatter\n", "3697649 => Paperclip\n", "36991 => blogit\n", "37041 => Representative\n", "370462 => roo\n", "3707 => data_active\n", "37075 => Cap gun\n", "3711 => persistent_httparty\n", "37169 => stalker\n", "37232 => Starling\n", "37243 => lunchy\n", "37258 => DocRaptor\n", "37340 => formula\n", "3735 => rapidash\n", "37355 => code_statistics\n", "37366 => acts_as_follower\n", "3737 => easy_attributes\n", "3741 => Jabs\n", "37422383 => Rake\n", "3745 => Ruby-github\n", "374580 => Resque Mailer\n", "37476 => Rocco\n", "3753 => shrimp\n", "3810920 => chunky_png\n", "38158 => tailor\n", "3818 => ga_events\n", "38233 => Publify\n", "3829 => Static\n", "38315 => numbers_and_words\n", "3838 => s3utils\n", "38591 => rbench\n", "385936 => i18n-js\n", "3867 => Captcha\n", "38818 => devise_oauth2_providable\n", "38858 => Nestful\n", "3887 => Slidedown\n", "3897 => jike_captcha\n", "3899 => spy\n", "390299 => Ancestry\n", "3920 => acts_as_param\n", "3920 => gdal\n", "39218 => csv_pirate\n", "3922357 => Mocha\n", "3925 => multitenant\n", "3932 => config_newton\n", "393293 => Fabrication\n", "393585 => sunspot_solr\n", "3937908 => Compass\n", "394 => multi-step\n", "394455 => Simple-navigation\n", "3946 => instance_selector\n", "3949 => zbar\n", "39533 => Cramp\n", "395335 => Vagrant\n", "3954 => yarn\n", "39640 => Cream\n", "39707 => Wrong\n", "39775 => action_presenter\n", "3980438 => crack\n", "39906 => Blazing\n", "399186 => configatron\n", "3999 => config-me\n", "4003 => Screw-unit\n", "40059 => Asin\n", "400660 => ransack\n", "400964 => squeel\n", "4011 => pdf_info\n", "401206 => bullet\n", "40201 => micromachine\n", "402152 => icalendar\n", "402184 => Recaptcha\n", "4024380 => FasterCSV\n", "40269 => fnordmetric\n", "4033126 => Slop\n", "4055 => attribute_choices\n", "40579 => axlsx_rails\n", "4059 => cucover\n", "40651 => every_day_irb\n", "4072 => resubject\n", "4079289 => Pry\n", "40816 => Encrypted strings\n", "4090 => slowgrowl\n", "4094 => changeling\n", "4104 => coletivo\n", "4107 => qrscanner\n", "411 => rgdal\n", "4110 => windsor\n", "41167 => acts_as_tenant\n", "4124 => Transactionata\n", "4138 => newman\n", "41590 => Toto\n", "41624 => simpleconfig\n", "417138 => guard-bundler\n", "4172744 => Unicorn\n", "419593 => watir-webdriver\n", "4197 => HammerBuilder\n", "4202 => time_travel\n", "4203 => rubydoctest\n", "4205 => Shadow\n", "420714 => Flay\n", "421152 => Tinder\n", "42123 => datagrid\n", "421440 => Bluecloth\n", "42157 => sanitize_email\n", "42221 => versionist\n", "422223 => Grit\n", "42230 => nulldb\n", "42353 => Showoff\n", "42429 => immigrant\n", "4243 => SubscriptionFu\n", "425 => active_model_otp\n", "42656 => getopt\n", "4269 => scorched\n", "4272197 => mysql\n", "42804 => Locomotive\n", "4281461 => Cucumber\n", "4283 => rcsvreader\n", "4287 => amberbit-config\n", "43019 => ledermann-rails-settings\n", "4319 => Hanoi\n", "4320437 => Excon\n", "43284 => Vestal Versions\n", "433272 => Letter Opener\n", "4335 => roleable\n", "43376 => Acts as versioned\n", "43382 => acts_as_revisionable\n", "4370 => Bling\n", "4372 => mixpanel_rails\n", "43777 => Lumber\n", "4382 => tinnef\n", "4383 => fql\n", "43887 => Acts as Solr\n", "4395 => http-requestor\n", "43981 => Smurf\n", "440393 => Tire\n", "441031 => S3\n", "44144 => Arcadia\n", "4431 => quantum_leap\n", "4432 => exchanger\n", "4437 => fluidfeatures\n", "444092 => asset_sync\n", "44480 => Automateit\n", "4449 => recognition\n", "44562 => Enumerated attribute\n", "4458 => pakyow\n", "4460 => Wizardly\n", "446193 => activerecord-jdbcmysql-adapter\n", "4466 => Object daddy\n", "44815 => Ocra\n", "44856 => acts_as_restful_list\n", "4493 => Subdomain routes\n", "44971 => Calendar helper\n", "44975 => StaticMatic\n", "45080 => FancyIrb\n", "4509 => Rack::Fontserve\n", "45204 => Texticle\n", "4524 => Dynamic reports\n", "452488 => Twitter-stream\n", "4541893 => New Relic RPM\n", "4542 => frenzy_bunnies\n", "455397 => Machinist\n", "4554 => human_attribute\n", "4558 => patchmaster\n", "45591 => power_enum\n", "4574 => spinning_cursor\n", "4578 => Exception Engine\n", "4578 => workbook\n", "457934 => Pdfkit\n", "45794 => whiskey_disk\n", "457998 => coveralls\n", "45876 => Cerberus\n", "4591 => Ink\n", "459198 => Rainbow\n", "45929 => Navigasmic\n", "4596 => ews-api\n", "46183 => Lipsiadmin\n", "46193 => Closure Tree\n", "46217 => Rpx now\n", "462531 => nested_form\n", "463044 => Jekyll\n", "46313 => yard-cucumber\n", "46338 => Mongomatic\n", "4637 => Qadmin\n", "46420 => fullstack-cms\n", "4650 => classic_presenter\n", "46533 => paypal-express\n", "4655 => Crate\n", "4667 => sheets\n", "4675314 => Hashie\n", "4691 => system-metrics\n", "4717649 => Rubygems\n", "4723 => Amazon-product-advertising-api\n", "4738 => rebay\n", "4741 => Simple-gem\n", "47531 => Alchemy CMS\n", "4762 => event_cal\n", "47628 => gitolite\n", "47729 => Kicker\n", "4788 => Www-delicious\n", "47906 => Artifice\n", "4797 => Detest\n", "47989 => Camping\n", "4799 => Highlight\n", "481201 => Mongomapper\n", "4813 => zeus-api\n", "4815426 => ORM Adapter\n", "4820 => Prism\n", "48231 => zucker\n", "48313 => Prawnto\n", "48353 => Specjour\n", "4847 => gemrat\n", "4861073 => Redis Ruby\n", "4869536 => will_paginate\n", "48703 => schema_plus\n", "4876 => code_rippa\n", "4885 => postgresql_cursor\n", "48920 => Aegis\n", "4896 => pulsar\n", "4908 => Serviceproxy\n", "4919151 => Capistrano\n", "4923543 => Minitest\n", "49254 => refinerycms-blog\n", "4931 => Jemini\n", "4939 => Viewtastic\n", "4941 => twitter-bootswatch-rails-helpers\n", "49412 => spring\n", "49495 => Evergreen\n", "4958 => Strip control chars\n", "4959 => deplot\n", "496 => dynamojs_rails\n", "49706 => Pik\n", "49711 => configtoolkit\n", "4983 => has_draft\n", "4989 => workers\n", "499391 => fb_graph\n", "500984 => Amazon-ec2\n", "5013 => trust\n", "501620 => ProgressBar\n", "502682 => Flog\n", "50276 => Twitter4r\n", "5028 => Acts-as-rated\n", "5030 => rack_clicky\n", "50453 => Juicer\n", "50600 => cuporter\n", "506219 => Dragonfly\n", "50636 => Racksh\n", "5078787 => coderay\n", "5082 => active_dynamodb\n", "5082680 => therubyracer\n", "50834 => mixpanel_client\n", "50854 => Shindo\n", "509 => irc-qik-bot\n", "5090 => clap\n", "5092 => update_status\n", "5093 => to_spreadsheet\n", "5115 => sonar\n", "5117 => post_office\n", "512 => pig_latin\n", "51269 => mobylette\n", "5130577 => yajl-ruby\n", "5133 => food_info\n", "51411 => Vimeo\n", "51555 => Wrest\n", "51564 => Feed-normalizer\n", "5163 => noexec\n", "5169 => enumify\n", "51709 => Strongbox\n", "51787 => Gem-release\n", "5180 => Outpost\n", "518001 => useragent\n", "52099 => Akephalos\n", "52246 => webgen\n", "523581 => Autotest\n", "5238 => forum_monster\n", "524912 => headless\n", "52737 => role_model\n", "5280700 => json pure\n", "5282 => Unencumbered\n", "5292 => metric_abc\n", "5313 => locale_detector\n", "532080 => RGeo\n", "5327 => seed_dumper\n", "53311 => Permanent records\n", "53327 => yell\n", "53463 => seedbank\n", "5351 => rss-motor\n", "5353 => Tumblr\n", "5358 => Workling\n", "536 => cogbot\n", "5360 => fancygrid\n", "5360 => gridder\n", "536860 => Rails best practices\n", "5369 => nutshell-crm\n", "5370 => lolsoap\n", "538080 => rails-erd\n", "53930 => ajaxful_rating\n", "5398 => resque-mongo\n", "5407 => bundler-auto-update\n", "5414 => Quilt\n", "54225 => cucumber-nagios\n", "54242 => copycopter_client\n", "54314 => cobweb\n", "54396 => agent_orange\n", "5453 => Find by param\n", "5469 => arena\n", "547 => write_xlsx_rails\n", "5475789 => Capybara\n", "547906 => taps\n", "55057 => Turnip\n", "5516 => CSV importer\n", "552320 => sunspot_rails\n", "5534132 => Factory Girl\n", "553530 => Babosa\n", "554311 => Jeweler\n", "554365 => Redis Store\n", "55538 => Riot\n", "55542 => ibm_db\n", "55729 => Classy Enum\n", "557380 => foreigner\n", "5576 => image_squeeze\n", "5591005 => Thin\n", "55959 => Apotomo\n", "55991 => Stella\n", "5613 => Event calendar\n", "56138 => awestruct\n", "5631 => rumonade\n", "56518 => google-analytics-rails\n", "5657 => rack-cas\n", "5688 => better-benchmark\n", "5689 => Invoicing\n", "5691 => coco\n", "5701 => Relaxdb\n", "57066 => Acts as geocodable\n", "570920 => God\n", "572 => skeptick\n", "572432 => routo\n", "572690 => Celerity\n", "5731 => Solr query\n", "5735 => dossier\n", "57419 => powerpack\n", "57499 => Testbot\n", "57502 => remote_table\n", "5757549 => Devise\n", "5771 => amazon-ses\n", "5788 => Pending\n", "5791 => store_configurable\n", "5798 => tableficate\n", "58001 => Vanity\n", "580027 => Puma\n", "580173 => dotenv\n", "5802 => breadcrumble\n", "5809 => ray\n", "581465 => activerecord-sqlserver-adapter\n", "58149 => ratom\n", "5831 => semrush\n", "58324 => Couch potato\n", "583786 => Sunspot\n", "5855 => Instiki\n", "5855 => SrBuj\n", "58569 => Slideshow\n", "586 => smslist\n", "5869 => alchemy_crm\n", "5873 => gioco\n", "5886 => multi_progress_bar\n", "58874 => switch_user\n", "5900 => Acts as revisable\n", "59037 => public_activity\n", "5905 => rconfig\n", "5913 => Resort\n", "5913 => campo\n", "59136 => Rudy\n", "5913794 => Httparty\n", "5916323 => faraday\n", "59175 => rack-google-analytics\n", "5918 => ar-audit-tracer\n", "59189 => Clickatell\n", "5924 => Rip\n", "59330 => sendgrid-rails\n", "59368 => dm-sweatshop\n", "59391 => daemonizer\n", "5943 => filterrific\n", "595618 => Pony\n", "597571 => Bitly\n", "5981390 => multipart-post\n", "5994 => markable\n", "6 => runkeeper-activites\n", "6006 => tribe\n", "60123 => hamster\n", "6015 => sax_stream\n", "60246 => Strip attributes\n", "604 => nikkou\n", "605378 => AWS\n", "6071 => perpetuity\n", "608218 => FXRuby\n", "6086 => gdal-helper\n", "60937 => ab_admin\n", "61134 => unimidi\n", "6115 => fastspring-saasy\n", "6116 => wires\n", "61530 => ActiveDecorator\n", "61668 => Acts as textcaptcha\n", "6183 => Ruber\n", "6198 => maktoub\n", "6208 => data-anonymization\n", "62113 => paypal_adaptive\n", "6220 => Utility scopes\n", "623 => Viking\n", "62305 => Rghost\n", "6242 => progress-meter\n", "6246 => Stamina\n", "625 => debloy\n", "62738 => Spin\n", "62743 => I18n routing\n", "6291 => kintama\n", "6292 => random_record\n", "6297 => cloudfront_asset_host\n", "6299 => manageable_content\n", "6304 => elastictastic\n", "63096 => Daemon-kit\n", "631 => dashing-rails\n", "631 => traduction\n", "6318 => cucumberator\n", "632 => yaga\n", "632896 => settingslogic\n", "6354 => zxing\n", "63549 => CoverMe\n", "636900 => Draper\n", "6374 => simple_audit\n", "6381 => text_parser\n", "63817 => ranked-model\n", "640492 => RR\n", "64110 => APISmith\n", "64157 => Papermill\n", "6422 => Scope-builder\n", "64361 => Isolate\n", "64399 => Cool.io\n", "6449 => nagios_check\n", "6455 => incurve\n", "647 => ramenu\n", "648312 => girl_friday\n", "6487 => abingo_port\n", "65284 => adyen\n", "6566 => Scrubby\n", "65770 => Cinch\n", "658 => xmlrpc-rack_server\n", "659710 => viewcumber\n", "661599 => Awesome nested set\n", "6626 => pngqr\n", "663494 => wirble\n", "66385 => Spinach\n", "6642 => Olelo\n", "665379 => oj\n", "6654 => gollum_rails\n", "66568 => fluentd\n", "66790 => AssetHat\n", "6689 => oracle-enhanced-enhanced\n", "66899 => Scoped search\n", "6700 => ponder\n", "670396 => Thinking-sphinx\n", "672239 => Jenkins.rb\n", "67403 => acts_as_flying_saucer\n", "67581 => irbtools\n", "6763 => Enumerate by\n", "6764 => packrat\n", "677029 => Geokit\n", "6777 => recurrent\n", "68187 => Ronn\n", "6830 => Remotely\n", "6836 => xml-fu\n", "6853978 => pg\n", "6862 => rails_templater\n", "6868 => Tuiter\n", "688244 => Choice\n", "68941 => Vlad\n", "68974 => mysqlplus\n", "6903 => Autumn\n", "69228 => Random data\n", "693150 => Jammit\n", "6937 => mysql2psql\n", "69432 => gabba\n", "69508 => wice_grid\n", "69568 => cri\n", "696022 => ffaker\n", "69636 => Ruco\n", "69804 => rails_apps_composer\n", "6983 => letsrate\n", "6985 => fozzie_rails\n", "69896 => Enumerate it\n", "70027 => Ace\n", "70053 => premailer-rails3\n", "70150 => i18n-inflector-rails\n", "70243 => Structured Warnings\n", "7028 => Kitabu\n", "7032 => rookie\n", "70407 => Attached\n", "70764 => Chingu\n", "709 => url_scraper\n", "7091 => link_thumbnailer\n", "7092743 => mysql2\n", "710 => chalk_dust\n", "7118 => Normatron\n", "71200 => Devise ldap authenticatable\n", "713 => rucursive\n", "713916 => koala\n", "714020 => Sdoc\n", "715319 => Culerity\n", "7163 => rack-useragent-filter\n", "7164 => apiary\n", "7178 => Nickel\n", "7179 => table_cloth\n", "71914 => activerecord-reputation-system\n", "719220 => ActiveAdmin\n", "7201 => getoptions\n", "7202 => is_it_mobile\n", "7207 => gabbara\n", "7210 => eye\n", "7216 => googlepagerank\n", "72163 => Refraction\n", "7231 => Stale fish\n", "7231 => frenetic\n", "7251 => paranoid\n", "727904 => Maruku\n", "7289 => Isaac\n", "7295 => Active record defaults\n", "731 => hashy\n", "7343 => inboxes\n", "735 => kolb\n", "735149 => poltergeist\n", "7360223 => sqlite3\n", "7361 => hercules\n", "73691 => Boson\n", "738 => mundipagg\n", "7396 => Couch foo\n", "7397 => bogus\n", "73992 => delocalize\n", "741 => mocoso\n", "74119 => lazy_caching\n", "74133 => acts-as-messageable\n", "74260 => Ramaze\n", "7427 => validation_issues\n", "742777 => milia\n", "7438 => seedomatic\n", "7445 => Feed me\n", "74556 => shelly\n", "7497 => saxerator\n", "75064 => Fixjour\n", "7524 => Rbot\n", "7528 => paratrooper\n", "7533 => Mcbean\n", "7536 => rag\n", "7547 => acts_as_fulltextable\n", "7549 => code_stats2\n", "7551 => Alter-ego\n", "75516 => acts-as-approvable\n", "75652 => Gollum\n", "757330 => Exception notification\n", "7575 => streama\n", "7578 => I15r\n", "7592 => Titan\n", "7611 => Version fu\n", "7612 => Statistics\n", "7622 => fletcher\n", "7624 => jeditable-rails\n", "76244 => deprec\n", "76264 => wxRuby\n", "76417 => Active presenter\n", "765565 => activerecord-jdbc-adapter\n", "7660 => tableasy\n", "7696 => irbtools-more\n", "7701 => Hoof\n", "77265 => open_gem\n", "7738 => Menu helper\n", "77421 => Graticule\n", "7743 => likeable\n", "7751 => Pow\n", "7755 => engagecsm\n", "7762 => Recurring\n", "7770 => SweetyBacky\n", "7775 => roy\n", "77789 => Bacon\n", "77902 => dotenv-rails\n", "78015 => pluginfactory\n", "7807 => record_history\n", "781600 => Typhoeus\n", "782682 => Logging\n", "7831 => asset_hash\n", "78538 => Acl9\n", "78746 => Queue Classic\n", "79048 => Mailman\n", "79213 => creole\n", "7972 => slingshot-rb\n", "7976 => xml-motor\n", "798 => rake_bubbler\n", "7980 => address_standardization\n", "80065 => Subdomain-fu\n", "8017 => Akismetor\n", "8022 => constantinople\n", "8031 => Asset packager\n", "8035348 => Haml\n", "8055 => dataflow\n", "80644 => Clipboard\n", "8071 => hyperclient\n", "808107 => ruby-graphviz\n", "8086 => Trixy scopes\n", "810 => multitenant-pg\n", "81140 => highcharts-rails\n", "8115 => State-fu\n", "8116 => Giternal\n", "81180 => Hydra\n", "81261 => activeresource-response\n", "815 => groupme\n", "8168 => activerecord_translatable\n", "81713 => Rakismet\n", "817754 => Parallel tests\n", "8179 => smurfville\n", "818757 => Mustache\n", "8212 => Tabular\n", "82449 => json-jruby\n", "8258 => twitter-bootswatch-rails\n", "826 => multiengine\n", "82625 => Erector\n", "828 => lita-irc\n", "828052 => Rsolr\n", "8284 => redis_orm\n", "82840 => Typus\n", "83031 => FixtureBuilder\n", "833 => testrocket\n", "833522 => AASM\n", "836334 => resque-scheduler\n", "83717 => Rubyvis\n", "84035 => Octopus\n", "841074 => Geocoder\n", "84177 => rollbar\n", "84333 => mailboxer\n", "8472 => SlimGems\n", "84917 => rubocop\n", "8492 => semantic_navigation\n", "8510 => conformist\n", "85116 => Recurrence\n", "8523 => Has slug\n", "8531 => md2man\n", "854320 => PaperTrail\n", "85531 => versioncake\n", "8560 => Rails View Annotator\n", "8575 => magic_grid\n", "85832 => Ruby/GTK2\n", "8584 => socky-server\n", "860615 => kramdown\n", "86214 => tabs_on_rails\n", "8622 => feedme\n", "863 => dynoid\n", "863 => easy_table\n", "8635 => Is taggable\n", "865433 => amqp\n", "86738 => Admin data\n", "8722 => rack-maintenance\n", "8726053 => EventMachine\n", "8742 => rake-minify\n", "875686 => capybara-webkit\n", "87787 => Ruby-net-ldap\n", "8792 => jruby-rfc2445\n", "87959 => google_visualr\n", "8798909 => Rest-client\n", "88196 => xml-mapping\n", "883 => fileclip\n", "8845 => rock-queue\n", "884510 => sidekiq\n", "88593 => Markaby\n", "88611 => Tweetstream\n", "8872 => Datatrans\n", "889251 => pry-rails\n", "891 => raptor\n", "8916 => knife-esx\n", "892000 => Ruby/Git\n", "89382 => Image science\n", "894 => Korma\n", "8943 => Has translations\n", "895 => georuby_box\n", "8965 => View models\n", "8969 => syndication\n", "8973 => micro-optparse\n", "899433 => jenkins_api_client\n", "89965 => Chronic Duration\n", "9006 => configus\n", "903 => shellex\n", "908 => jackpot\n", "90807 => Amazon-ecs\n", "91043 => paranoia\n", "91466 => Jrails\n", "9167 => peek\n", "91725 => Gchartrb\n", "9178 => legato\n", "917933 => twitter-bootstrap-rails\n", "9192 => redirect\n", "92124 => Hobo\n", "92238 => Radiant\n", "9224 => saki\n", "9239 => gas\n", "92410 => Randexp\n", "9245 => inline_styles_mailer\n", "9253 => optimism\n", "925884 => braintree\n", "92619 => wirb\n", "9300 => Facon\n", "9310 => yettings\n", "932390 => configuration\n", "9348198 => coffee-script\n", "9360796 => sass-rails\n", "937 => dotbox\n", "93781 => acclaim\n", "94316 => Acts as archive\n", "9432 => shoes\n", "9436 => rubygems-tasks\n", "94549 => doorkeeper\n", "946 => Music player\n", "9467 => Teleport\n", "9468 => health_monitor\n", "94699 => rubyXL\n", "9494 => paloma\n", "95186 => paint\n", "9528 => fluidfeatures-rails\n", "95446 => spitball\n", "9557 => dynamic_configuration\n", "9559616 => Daemons\n", "9560 => opinio\n", "9573841 => highline\n", "95758 => ripl\n", "958 => customs\n", "9582 => Tickle\n", "958816 => pdf-reader\n", "9636 => Stories\n", "964014 => colorize\n", "965250 => Prawn\n", "9657 => test-queue\n", "96591 => Handsoap\n", "9669 => Simple navigation\n", "97241 => Simple enum\n", "97428 => metriks\n", "976 => my_feeds\n", "9764 => Ready for i18n\n", "9772 => Gembox\n", "9773 => Db2s3\n", "9778 => smarter_csv\n", "97953 => Attribute normalizer\n", "979597 => Fakeweb\n", "982187 => Jasmine\n", "982736 => rabl\n", "9829 => carter\n", "984 => config_fun\n", "984 => cz_auth\n", "9850 => inline_styles\n", "98949 => Wicked\n", "990 => rails_presenter\n", "9917 => dbmanager\n", "9928 => Xapit\n", "9931 => Rpeg-markdown\n", "994588 => Liquid\n", "9986790 => Sinatra\n", "9995 => Ember\n", "9998 => api-versions\n"]
+Rake,37422383
+Thor,35203032
+Rack,33846270
+Active Support,31266324
+Ruby on Rails,28937372
+json,27804164
+multi_json,26551740
+I18n,25938816
+Active Record,25247918
+Action Mailer,23890360
+erubis,20545909
+Mail,20169554
+Tilt,20039083
+Bundler,16668864
+Nokogiri,16018255
+RDoc,15919742
+Sprockets,14540656
+Sass,14482085
+rspec-mocks,11399085
+RSpec,11304068
+ExecJS,11284328
+Uglifier,10403473
+Sinatra,9986790
+highline,9573841
+Daemons,9559616
+sass-rails,9360796
+coffee-script,9348198
+Rest-client,8798909
+EventMachine,8726053
+Haml,8035348
+sqlite3,7360223
+mysql2,7092743
+pg,6853978
+multipart-post,5981390
+faraday,5916323
+Httparty,5913794
+Devise,5757549
+Thin,5591005
+Factory Girl,5534132
+Capybara,5475789
+json pure,5280700
+yajl-ruby,5130577
+therubyracer,5082680
+coderay,5078787
+Minitest,4923543
+Capistrano,4919151
+will_paginate,4869536
+Redis Ruby,4861073
+ORM Adapter,4815426
+Rubygems,4717649
+Hashie,4675314
+New Relic RPM,4541893
+Excon,4320437
+Cucumber,4281461
+mysql,4272197
+Unicorn,4172744
+Pry,4079289
+Slop,4033126
+FasterCSV,4024380
+crack,3980438
+Compass,3937908
+Mocha,3922357
+chunky_png,3810920
+Paperclip,3697649
+term-ansicolor,3605564
+Fog,3557452
+RVM,3412652
+aws-sdk,3336738
+Guard,3303343
+SimpleCov,3251397
+Mongo Ruby Driver,3189251
+Chronic,3002607
+Kaminari,2957986
+State machine,2919097
+Hpricot,2917372
+Bunny,2901413
+Chef,2879820
+cocaine,2853142
+Cancan,2804059
+mixlib-cli,2775663
+Passenger,2753166
+websocket,2678627
+rubygems-bundler,2668860
+RMagick,2612204
+ansi,2560704
+sqlite3-ruby,2469153
+Awesome print,2418466
+guard-rspec,2356015
+OmniAuth,2316392
+Hoe,2311180
+Faker,2287032
+Resque,2263708
+bootstrap-sass,2232506
+libwebsocket,2197253
+Aws-s3,2168767
+Timecop,2162330
+foreman,2138893
+Spork,2135190
+Carrierwave,2099736
+httpclient,2028997
+Daemon controller,2003939
+Webmock,1981891
+Airbrake,1976834
+Simple Form,1940915
+Yard,1932872
+Delayed job,1913588
+Heroku,1903787
+RedCloth,1872381
+Formtastic,1870308
+RightAWS,1777480
+Whenever,1646968
+Mechanize,1639964
+Redcarpet,1608084
+log4r,1573925
+Shoulda,1570838
+Mongoid,1531893
+Libxml-ruby,1530618
+Rufus-scheduler,1527803
+Sequel,1526010
+Inherited resources,1491486
+HTTPI,1455261
+Gyoku,1392713
+Less,1391256
+test-unit,1388595
+Bluepill,1370926
+Mongrel,1369145
+Active Merchant,1366276
+Savon,1364162
+Curb,1342469
+nori,1334020
+MiniMagick,1313176
+Slim,1285546
+Stringex,1273785
+Acts-as-taggable-on,1273755
+Acts as list,1264470
+Rdiscount,1261438
+Rcov,1259070
+temple,1258092
+Trollop,1236629
+Webrat,1189421
+spreadsheet,1185464
+jbuilder,1178425
+Puppet,1176827
+Celluloid,1166561
+Twitter,1166116
+Authlogic,1155197
+DataMapper,1148108
+extlib,1139039
+bourbon,1123775
+FriendlyId,1096530
+colored,1086347
+VCR,1082024
+Hirb,1081775
+em-websocket,1057961
+better_errors,1047956
+email_spec,1045731
+em-http-request,1027517
+ruby-progressbar,1015437
+Liquid,994588
+rabl,982736
+Jasmine,982187
+Fakeweb,979597
+Prawn,965250
+colorize,964014
+pdf-reader,958816
+configuration,932390
+braintree,925884
+twitter-bootstrap-rails,917933
+jenkins_api_client,899433
+Ruby/Git,892000
+pry-rails,889251
+sidekiq,884510
+capybara-webkit,875686
+amqp,865433
+kramdown,860615
+PaperTrail,854320
+Geocoder,841074
+resque-scheduler,836334
+AASM,833522
+Rsolr,828052
+Mustache,818757
+Parallel tests,817754
+ruby-graphviz,808107
+Logging,782682
+Typhoeus,781600
+activerecord-jdbc-adapter,765565
+Exception notification,757330
+milia,742777
+poltergeist,735149
+Maruku,727904
+ActiveAdmin,719220
+Culerity,715319
+Sdoc,714020
+koala,713916
+ffaker,696022
+Jammit,693150
+Choice,688244
+Geokit,677029
+Jenkins.rb,672239
+Thinking-sphinx,670396
+oj,665379
+wirble,663494
+Awesome nested set,661599
+viewcumber,659710
+girl_friday,648312
+RR,640492
+Draper,636900
+settingslogic,632896
+FXRuby,608218
+AWS,605378
+Bitly,597571
+Pony,595618
+Sunspot,583786
+activerecord-sqlserver-adapter,581465
+dotenv,580173
+Puma,580027
+Celerity,572690
+routo,572432
+God,570920
+foreigner,557380
+Redis Store,554365
+Jeweler,554311
+Babosa,553530
+sunspot_rails,552320
+taps,547906
+rails-erd,538080
+Rails best practices,536860
+RGeo,532080
+headless,524912
+Autotest,523581
+useragent,518001
+Dragonfly,506219
+Flog,502682
+ProgressBar,501620
+Amazon-ec2,500984
+fb_graph,499391
+Mongomapper,481201
+Jekyll,463044
+nested_form,462531
+Rainbow,459198
+coveralls,457998
+Pdfkit,457934
+Machinist,455397
+Twitter-stream,452488
+activerecord-jdbcmysql-adapter,446193
+asset_sync,444092
+S3,441031
+Tire,440393
+Letter Opener,433272
+Grit,422223
+Bluecloth,421440
+Tinder,421152
+Flay,420714
+watir-webdriver,419593
+guard-bundler,417138
+Recaptcha,402184
+icalendar,402152
+bullet,401206
+squeel,400964
+ransack,400660
+configatron,399186
+Vagrant,395335
+Simple-navigation,394455
+sunspot_solr,393585
+Fabrication,393293
+Ancestry,390299
+i18n-js,385936
+Resque Mailer,374580
+roo,370462
+brakeman,366060
+Loofah,363086
+Exceptional,355870
+jdbc-mysql,352484
+main,350020
+Selenium-client,349975
+gon,348100
+Stripe,347011
+active_model_serializers,345527
+Forgery,344872
+commander,344719
+Facets,337674
+meta_request,332555
+Acts as tree,329682
+globalize3,327041
+clamp,323201
+Grape,321032
+activerecord-jdbcpostgresql-adapter,319489
+Cells,319250
+aws-ses,318650
+Reek,315925
+Googlecharts,315612
+Declarative authorization,315282
+Acts As Indexed,314934
+aruba,310845
+ActiveScaffold,309065
+configliere,306687
+Searchlogic,301113
+Refinery CMS,297560
+Wicked pdf,290914
+Flexmock,289538
+Middleman,286832
+pickle,285670
+gli,285646
+Sax-machine,284058
+rack-rewrite,283344
+Clockwork,278915
+rails_config,275265
+Watchr,274993
+octokit,266929
+handlebars_assets,266463
+Garb,263390
+Honeybadger,263291
+Hominid,262029
+google-spreadsheet-ruby,259577
+oracle-enhanced,257760
+ruby-oci8,257649
+Couchrest,251828
+axlsx,251598
+Seed-fu,250009
+Roodi,248786
+cmdparse,240589
+gibbon,233412
+browser,231887
+Rails Admin,230634
+MetricFu,228031
+MailCatcher,227978
+Spree,227039
+progress_bar,226607
+rolify,224246
+Tmail,223809
+premailer,223097
+gmaps4rails,220643
+zeus,218381
+Padrino,218010
+Figaro,216441
+RubyTree,212214
+faye,211505
+ri_cal,211010
+Roadie,210133
+Attr encrypted,207963
+Acts as commentable,205564
+Albino,205382
+Ruport,204140
+powerbar,203143
+high_voltage,203125
+Fast gettext,202584
+skinny,201710
+Backup,201415
+Deprecated,199876
+Happymapper,199678
+jdbc-postgres,199512
+Appraisal,196931
+Saikuro,196749
+http_accept_language,194764
+Echoe,194216
+Ice cube,193466
+Delorean,193250
+acts_as_api,192627
+Toadhopper,191746
+Twitter oauth,191128
+Gosu,190199
+Feedzirra,189097
+BestInPlace,185933
+DecentExposure,182955
+Barista,182795
+mock_redis,181914
+Watir,179508
+Cane,178978
+Simple-rss,178970
+gelf,176423
+Rails-footnotes,175750
+enumerize,175503
+Redis Objects,170561
+Acts as ferret,170318
+cocoon,168110
+Steak,167795
+request-log-analyzer,167604
+Comfortable Mexican Sofa,165021
+Workflow,159638
+Bond,159034
+librarian,158876
+pg_search,157177
+Patron,156862
+Gruff,156048
+rails3_acts_as_paranoid,153722
+Daemon-spawn,153285
+Sorcery,152130
+activerecord-postgis-adapter,149828
+active_link_to,149428
+Active Enum,148633
+Default value for,146777
+berkshelf,145804
+Rubber,145437
+activerecord-jdbcderby-adapter,144936
+inline_forms,142354
+Merb,140658
+Populator,139521
+github_api,139433
+Acts as audited,139387
+six,139137
+tddium,138159
+Redcar,137001
+audited,136078
+interactive_editor,135702
+Ferret,135569
+Linkedin,135397
+railroady,134343
+rqrcode,133097
+Flickraw,131750
+heroku_san,131053
+jslint_on_rails,129217
+GeoRuby,128234
+data_miner,127337
+Acts as paranoid,127139
+konacha,126575
+anjlab-bootstrap-rails,125498
+createsend,125281
+sensu,124292
+breadcrumbs_on_rails,124276
+Trinidad,123795
+Transitions,119107
+youtube_it,118038
+apartment,116662
+rack-livereload,116296
+Clearance,116277
+Contacts,115340
+Newgem,114437
+Split,113935
+bugsnag,112442
+postgres-pr,112116
+crummy,111093
+Bones,110432
+Nanoc,109573
+foodcritic,108100
+SocialStream,107548
+ruby-mysql,107532
+localeapp,106851
+mail_view,106496
+Ohm,106197
+Db-charmer,104537
+Looksee,103729
+ActiveAssets,103182
+geminabox,103111
+progress,102765
+BrowserCMS,102407
+Roxml,101876
+Wicked,98949
+Attribute normalizer,97953
+metriks,97428
+Simple enum,97241
+Handsoap,96591
+ripl,95758
+spitball,95446
+paint,95186
+rubyXL,94699
+doorkeeper,94549
+Acts as archive,94316
+acclaim,93781
+wirb,92619
+Randexp,92410
+Radiant,92238
+Hobo,92124
+Gchartrb,91725
+Jrails,91466
+paranoia,91043
+Amazon-ecs,90807
+Chronic Duration,89965
+Image science,89382
+Tweetstream,88611
+Markaby,88593
+xml-mapping,88196
+google_visualr,87959
+Ruby-net-ldap,87787
+Admin data,86738
+tabs_on_rails,86214
+Ruby/GTK2,85832
+versioncake,85531
+Recurrence,85116
+rubocop,84917
+mailboxer,84333
+rollbar,84177
+Octopus,84035
+Rubyvis,83717
+FixtureBuilder,83031
+Typus,82840
+Erector,82625
+json-jruby,82449
+Rakismet,81713
+activeresource-response,81261
+Hydra,81180
+highcharts-rails,81140
+Clipboard,80644
+Subdomain-fu,80065
+creole,79213
+Mailman,79048
+Queue Classic,78746
+Acl9,78538
+pluginfactory,78015
+dotenv-rails,77902
+Bacon,77789
+Graticule,77421
+open_gem,77265
+Active presenter,76417
+wxRuby,76264
+deprec,76244
+Gollum,75652
+acts-as-approvable,75516
+Fixjour,75064
+shelly,74556
+Ramaze,74260
+acts-as-messageable,74133
+lazy_caching,74119
+delocalize,73992
+Boson,73691
+Refraction,72163
+activerecord-reputation-system,71914
+Devise ldap authenticatable,71200
+Chingu,70764
+Attached,70407
+Structured Warnings,70243
+i18n-inflector-rails,70150
+premailer-rails3,70053
+Ace,70027
+Enumerate it,69896
+rails_apps_composer,69804
+Ruco,69636
+cri,69568
+wice_grid,69508
+gabba,69432
+Random data,69228
+mysqlplus,68974
+Vlad,68941
+Ronn,68187
+irbtools,67581
+acts_as_flying_saucer,67403
+Scoped search,66899
+AssetHat,66790
+fluentd,66568
+Spinach,66385
+Cinch,65770
+adyen,65284
+Cool.io,64399
+Isolate,64361
+Papermill,64157
+APISmith,64110
+ranked-model,63817
+CoverMe,63549
+Daemon-kit,63096
+I18n routing,62743
+Spin,62738
+Rghost,62305
+paypal_adaptive,62113
+Acts as textcaptcha,61668
+ActiveDecorator,61530
+unimidi,61134
+ab_admin,60937
+Strip attributes,60246
+hamster,60123
+daemonizer,59391
+dm-sweatshop,59368
+sendgrid-rails,59330
+Clickatell,59189
+rack-google-analytics,59175
+Rudy,59136
+public_activity,59037
+switch_user,58874
+Slideshow,58569
+Couch potato,58324
+ratom,58149
+Vanity,58001
+remote_table,57502
+Testbot,57499
+powerpack,57419
+Acts as geocodable,57066
+google-analytics-rails,56518
+awestruct,56138
+Stella,55991
+Apotomo,55959
+Classy Enum,55729
+ibm_db,55542
+Riot,55538
+Turnip,55057
+agent_orange,54396
+cobweb,54314
+copycopter_client,54242
+cucumber-nagios,54225
+ajaxful_rating,53930
+seedbank,53463
+yell,53327
+Permanent records,53311
+role_model,52737
+webgen,52246
+Akephalos,52099
+Gem-release,51787
+Strongbox,51709
+Feed-normalizer,51564
+Wrest,51555
+Vimeo,51411
+mobylette,51269
+Shindo,50854
+mixpanel_client,50834
+Racksh,50636
+cuporter,50600
+Juicer,50453
+Twitter4r,50276
+configtoolkit,49711
+Pik,49706
+Evergreen,49495
+spring,49412
+refinerycms-blog,49254
+Aegis,48920
+schema_plus,48703
+Specjour,48353
+Prawnto,48313
+zucker,48231
+Camping,47989
+Artifice,47906
+Kicker,47729
+gitolite,47628
+Alchemy CMS,47531
+paypal-express,46533
+fullstack-cms,46420
+Mongomatic,46338
+yard-cucumber,46313
+Rpx now,46217
+Closure Tree,46193
+Lipsiadmin,46183
+Navigasmic,45929
+Cerberus,45876
+whiskey_disk,45794
+power_enum,45591
+Texticle,45204
+FancyIrb,45080
+StaticMatic,44975
+Calendar helper,44971
+acts_as_restful_list,44856
+Ocra,44815
+Enumerated attribute,44562
+Automateit,44480
+Arcadia,44144
+Smurf,43981
+Acts as Solr,43887
+Lumber,43777
+acts_as_revisionable,43382
+Acts as versioned,43376
+Vestal Versions,43284
+ledermann-rails-settings,43019
+Locomotive,42804
+getopt,42656
+immigrant,42429
+Showoff,42353
+nulldb,42230
+versionist,42221
+sanitize_email,42157
+datagrid,42123
+simpleconfig,41624
+Toto,41590
+acts_as_tenant,41167
+Encrypted strings,40816
+every_day_irb,40651
+axlsx_rails,40579
+fnordmetric,40269
+micromachine,40201
+Asin,40059
+Blazing,39906
+action_presenter,39775
+Wrong,39707
+Cream,39640
+Cramp,39533
+csv_pirate,39218
+Nestful,38858
+devise_oauth2_providable,38818
+rbench,38591
+numbers_and_words,38315
+Publify,38233
+tailor,38158
+Rocco,37476
+acts_as_follower,37366
+code_statistics,37355
+formula,37340
+DocRaptor,37258
+lunchy,37243
+Starling,37232
+stalker,37169
+Cap gun,37075
+Representative,37041
+blogit,36991
+fullstack-admin,36859
+CouchRest Model,36792
+vanilla,36705
+Sketches,36573
+gemfury,36439
+Inploy,35945
+Rackamole,35919
+Radiant Shop,35915
+Frank,35640
+SimplyStored,35448
+mongrel2,35381
+simple_states,35358
+stripe_event,35270
+Grackle,35132
+Ubiquo,35105
+rouge,35062
+Clogger,34653
+Google-translate,34649
+og,34590
+Wkhtmltopdf,34567
+easy_roles,34488
+Contest,34442
+named-parameters,34176
+Permalink fu,34057
+app_config,33950
+Cucumber Factory,33859
+Piston,33591
+PageRankr,33512
+gattica,33241
+on_the_spot,33146
+Time-warp,33119
+xapian_db,33080
+private_pub,32706
+fozzie,32660
+methadone,32550
+user_agent_parser,32537
+rabbit_jobs,32427
+hudson-remote-api,32216
+Pacecar,32170
+Sprinkle,32046
+Ruote,31883
+merit,31757
+Admin assistant,31709
+Cloud-crowd,31659
+randumb,31612
+stylus,31577
+omniauth-ldap,31544
+stateflow,30970
+websocket-rack,30677
+rocket_pants,30629
+Optitron,30558
+Chipmunk,30528
+dashing,30367
+mobvious,30181
+Sparklines,30156
+Alias,30083
+admin_interface,30031
+Bonsai,30004
+capistrano_mailer,29954
+Tagz,29934
+viewpoint,29904
+bootstrap_forms,29855
+metainspector,29795
+Rubygame,29669
+Webby,29591
+Astrails-Safe,29500
+sham,29413
+Rango,29342
+mongodb_logger,29155
+enginex,29139
+active_device,29114
+authority,29025
+mina,29011
+lol_dba,28782
+Imdb,28771
+Geokit-rails,28722
+Right-rails,28655
+Scruffy,28651
+auto_strip_attributes,28648
+Visage,28636
+simple-navigation-bootstrap,28619
+Acts as solr reloaded,28462
+prawnto_2,28382
+Query trace,28345
+Jammit-S3,28323
+Data fabric,28320
+redhillonrails_core,28298
+opal,28234
+enum_column3,28233
+phrase,28206
+branston,28189
+rspec_api_documentation,28107
+Weary,27971
+rugged,27947
+cucumber-in-the-yard,27909
+Coulda,27892
+Rugalytics,27806
+fasterer-csv,27782
+ori,27677
+acts_as_xlsx,27573
+SmartAsset,27344
+Gchart,27052
+qtbindings,27034
+combustion,26844
+galetahub-simple_captcha,26733
+crypt_keeper,26727
+dante,26687
+omnicontacts,26628
+Puffer,26551
+treequel,26514
+configurable_engine,26490
+canonical-rails,26471
+Espresso,26465
+Cuba,26285
+Restfulie,26165
+app,26023
+api-client,25999
+Ruby-activeldap,25859
+application_configuration,25810
+formize,25773
+rqrcode-rails3,25737
+daemons-rails,25736
+Zena,25699
+Beetle,25535
+breadcrumbs,25499
+graphite-api,25485
+Cijoe,25478
+Devil,25241
+irwi,25106
+Mofo,24970
+Suspenders,24871
+Runt,24818
+georuby,24748
+cantango,24708
+kaminari-bootstrap,24488
+tconsole,24483
+acts_as_configurable,24431
+pickler,24308
+video_info,24053
+Canable,24030
+githug,23767
+activerecord-connections,23671
+Inochi,23647
+sorted,23529
+pandoc-ruby,23501
+thesilverspoon,23391
+rack-bug,23363
+lolita,23354
+gem_hadar,23279
+humanizer,23152
+cucumber-sinatra,23093
+Lilypad,22898
+Packr,22823
+acts_as_hashish,22754
+tabulous,22571
+Dumper,22358
+tabletastic,22302
+has_permalink,22262
+stasis,22246
+Rack hoptoad,22212
+heroku-rails,22074
+Deadweight,22001
+immortal,21925
+Disqus,21795
+Stepdown,21761
+wisepdf,21660
+Rubyscript2exe,21569
+Pismo,21539
+Nesta,21459
+automatic_foreign_key,21434
+allowy,21427
+Markerb,21322
+soft_deletion,21240
+leaderboard,21154
+SitePrism,21110
+dandelion,21085
+Delsolr,21021
+Bj,21008
+Backgrounded,20790
+vfs,20716
+micon,20615
+image_sorcery,20379
+postgres-copy,20350
+gemedit,20260
+Princely,20244
+quickl,20172
+rack-locale_chooser,20098
+gimli,20037
+twitter_bootstrap_form_for,20032
+Lighthouse-api,20005
+Param protected,19941
+Serious,19883
+Gamebox,19805
+browsernizer,19782
+Octopi,19778
+Later dude,19767
+Postgis adapter,19742
+bewildr,19700
+symmetric-encryption,19644
+Rails xss,19530
+foreverb,19501
+Defender,19457
+rack-insight,19289
+Ore,19195
+user-agent,19171
+Ultraviolet,19153
+cacheable_flash,19113
+assert,19083
+amazon_flex_pay,19079
+mongodb_model,19074
+json-jwt,18813
+Tarantula,18793
+css_splitter,18737
+activeadmin-axlsx,18725
+Restful acl,18684
+Whoops,18526
+adauth,18505
+google_calendar,18490
+Sake,18487
+vendorer,18435
+wlang,18407
+gretel,18404
+Scrubyt,18388
+rainpress,18357
+crumble,18325
+salad,18252
+db2fog,18023
+Erbook,17998
+rails-settings,17856
+mongoid_rateable,17781
+Ruby-processing,17590
+Navvy,17466
+canard,17386
+Scrapi,17351
+Resource controller,17296
+inline-style,17268
+Seer,17157
+simple_xlsx_writer,17035
+Twitterland,17013
+MundoPepino,16900
+arboreal,16891
+the_role,16888
+harness,16868
+lolcat,16856
+dynamoid,16764
+ruby-bitly,16648
+ajax_pagination,16631
+activerecord-turntable,16602
+cuke_sniffer,16578
+Hanna,16508
+mousetrap-rails,16480
+confstruct,16421
+chronic_between,16403
+inversion,16345
+rest-assured,16329
+simple_state_machine,16323
+puffer_pages,16284
+table-for,16188
+bootstrap_form,16152
+musicbrainz,16151
+rqr,16108
+recommendable,16059
+Mailhopper,16055
+Midilib,16016
+Casein,16009
+vk-ruby,15954
+opal-spec,15946
+configurability,15907
+rocket_tag,15899
+test_inline,15896
+binman,15864
+tork,15790
+mail_style,15772
+Xebec,15759
+surrogate,15741
+Acts as taggable on steroids,15698
+absurdity,15652
+macros4cuke,15631
+rqrcode_png,15610
+fidgit,15521
+rfeedparser,15493
+multi_db,15488
+spawn,15451
+PageTemplate,15430
+Cross-stub,15190
+Globalize2,15175
+Simple-daemon,15156
+Bdoc,15132
+git-deploy,15104
+miniskirt,15017
+kronic,15013
+governor,15013
+tagen,14850
+Braid,14749
+jquery.fileupload-rails,14643
+table_print,14588
+TimelineFu,14567
+Gotcha,14550
+fake_dynamo,14517
+sucker_punch,14454
+Slug,14372
+auditable,14371
+wiselinks,14365
+mongoid_geospatial,14357
+gritano,14150
+Sentry,14107
+Robustthread,14103
+Remit,14085
+zeus-parallel_tests,13950
+Rtex,13947
+rails_exception_handler,13857
+unread,13744
+Puret,13739
+feed_parser,13712
+dtf,13712
+Prologue,13670
+ariane,13623
+Flickr fu,13601
+Ebb,13601
+backupit,13577
+to_lang,13552
+Reportable,13509
+rchart,13480
+geoip,13468
+dry_crud,13449
+brochure,13448
+doc,13428
+docile,13422
+bench_press,13373
+httplog,13336
+cucumber-screenshot,13316
+toast,13263
+ntail,13156
+sudo_attributes,13147
+Rockstar,13144
+commontator,13077
+griddler,12884
+rews,12875
+Copy,12809
+Userstamp,12761
+stickler,12748
+quebert,12730
+pundit,12665
+divining_rod,12645
+Infinity Test,12595
+machined,12570
+qrencoder,12557
+central_logger,12534
+best_boy,12533
+appscrolls,12503
+recommendify,12485
+strelka,12471
+ffi-tk,12401
+config_parser,12385
+turnout,12351
+logging_assist,12333
+bldr,12250
+supply_drop,12212
+Lemon,12195
+Zen,12151
+letmein,12138
+Walruz,12134
+thinreports,12104
+icebreaker,12054
+excel_rails,12016
+Odf-report,11933
+annotator,11886
+amico,11806
+Diakonos,11801
+guard-rubocop,11723
+Midiator,11711
+backburner,11684
+gofer,11657
+pkcs11,11623
+magickly,11603
+metro,11568
+Ebay,11507
+porter,11487
+Acts as rateable,11375
+nofxx-georuby,11372
+Jake,11334
+pelusa,11327
+Shippinglogic,11313
+authorizme,11218
+leaflet-rails,11210
+redis-search,11204
+opal-rails,11204
+method_profiler,11170
+monkeybars,11161
+vacuum,11146
+Netrecorder,11113
+write_xlsx,11008
+tr8n,10989
+table_for_collection,10956
+qu,10914
+brewdler,10906
+Rails Email Preview,10903
+display_case,10858
+marley,10803
+rexchange,10778
+Tach,10754
+Integrity,10703
+qwandry,10678
+OptionParser,10664
+Polonium,10656
+mince,10592
+fedex,10590
+ruhoh,10488
+ccsv,10480
+Renee,10480
+ObfuscateId,10473
+bandit,10460
+sorting_table_for,10451
+configulations,10450
+Has alter ego,10408
+technical_graph,10373
+nimbleshop,10352
+gitara,10274
+slugged,10261
+navi,10222
+acts_as_friendable,10162
+indy,10118
+socialization,10097
+Imagery,10094
+gaston,10080
+configloader,10019
+api-versions,9998
+Ember,9995
+Rpeg-markdown,9931
+Xapit,9928
+dbmanager,9917
+inline_styles,9850
+carter,9829
+smarter_csv,9778
+Db2s3,9773
+Gembox,9772
+Ready for i18n,9764
+Simple navigation,9669
+test-queue,9657
+Stories,9636
+Tickle,9582
+opinio,9560
+dynamic_configuration,9557
+fluidfeatures-rails,9528
+paloma,9494
+health_monitor,9468
+Teleport,9467
+rubygems-tasks,9436
+shoes,9432
+yettings,9310
+Facon,9300
+optimism,9253
+inline_styles_mailer,9245
+gas,9239
+saki,9224
+redirect,9192
+legato,9178
+peek,9167
+configus,9006
+micro-optparse,8973
+syndication,8969
+View models,8965
+Has translations,8943
+knife-esx,8916
+Datatrans,8872
+rock-queue,8845
+jruby-rfc2445,8792
+rake-minify,8742
+rack-maintenance,8722
+Is taggable,8635
+feedme,8622
+socky-server,8584
+magic_grid,8575
+Rails View Annotator,8560
+md2man,8531
+Has slug,8523
+conformist,8510
+semantic_navigation,8492
+SlimGems,8472
+redis_orm,8284
+twitter-bootswatch-rails,8258
+Tabular,8212
+smurfville,8179
+activerecord_translatable,8168
+Giternal,8116
+State-fu,8115
+Trixy scopes,8086
+hyperclient,8071
+dataflow,8055
+Asset packager,8031
+constantinople,8022
+Akismetor,8017
+address_standardization,7980
+xml-motor,7976
+slingshot-rb,7972
+asset_hash,7831
+record_history,7807
+roy,7775
+SweetyBacky,7770
+Recurring,7762
+engagecsm,7755
+Pow,7751
+likeable,7743
+Menu helper,7738
+Hoof,7701
+irbtools-more,7696
+tableasy,7660
+jeditable-rails,7624
+fletcher,7622
+Statistics,7612
+Version fu,7611
+Titan,7592
+I15r,7578
+streama,7575
+Alter-ego,7551
+code_stats2,7549
+acts_as_fulltextable,7547
+rag,7536
+Mcbean,7533
+paratrooper,7528
+Rbot,7524
+saxerator,7497
+Feed me,7445
+seedomatic,7438
+validation_issues,7427
+bogus,7397
+Couch foo,7396
+hercules,7361
+inboxes,7343
+Active record defaults,7295
+Isaac,7289
+paranoid,7251
+frenetic,7231
+Stale fish,7231
+googlepagerank,7216
+eye,7210
+gabbara,7207
+is_it_mobile,7202
+getoptions,7201
+table_cloth,7179
+Nickel,7178
+apiary,7164
+rack-useragent-filter,7163
+Normatron,7118
+link_thumbnailer,7091
+rookie,7032
+Kitabu,7028
+fozzie_rails,6985
+letsrate,6983
+mysql2psql,6937
+Autumn,6903
+Tuiter,6868
+rails_templater,6862
+xml-fu,6836
+Remotely,6830
+recurrent,6777
+packrat,6764
+Enumerate by,6763
+ponder,6700
+oracle-enhanced-enhanced,6689
+gollum_rails,6654
+Olelo,6642
+pngqr,6626
+Scrubby,6566
+abingo_port,6487
+incurve,6455
+nagios_check,6449
+Scope-builder,6422
+text_parser,6381
+simple_audit,6374
+zxing,6354
+cucumberator,6318
+elastictastic,6304
+manageable_content,6299
+cloudfront_asset_host,6297
+random_record,6292
+kintama,6291
+Stamina,6246
+progress-meter,6242
+Utility scopes,6220
+data-anonymization,6208
+maktoub,6198
+Ruber,6183
+wires,6116
+fastspring-saasy,6115
+gdal-helper,6086
+perpetuity,6071
+sax_stream,6015
+tribe,6006
+markable,5994
+filterrific,5943
+Rip,5924
+ar-audit-tracer,5918
+campo,5913
+Resort,5913
+rconfig,5905
+Acts as revisable,5900
+multi_progress_bar,5886
+gioco,5873
+alchemy_crm,5869
+SrBuj,5855
+Instiki,5855
+semrush,5831
+ray,5809
+breadcrumble,5802
+tableficate,5798
+store_configurable,5791
+Pending,5788
+amazon-ses,5771
+dossier,5735
+Solr query,5731
+Relaxdb,5701
+coco,5691
+Invoicing,5689
+better-benchmark,5688
+rack-cas,5657
+rumonade,5631
+Event calendar,5613
+image_squeeze,5576
+CSV importer,5516
+arena,5469
+Find by param,5453
+Quilt,5414
+bundler-auto-update,5407
+resque-mongo,5398
+lolsoap,5370
+nutshell-crm,5369
+gridder,5360
+fancygrid,5360
+Workling,5358
+Tumblr,5353
+rss-motor,5351
+seed_dumper,5327
+locale_detector,5313
+metric_abc,5292
+Unencumbered,5282
+forum_monster,5238
+Outpost,5180
+enumify,5169
+noexec,5163
+food_info,5133
+post_office,5117
+sonar,5115
+to_spreadsheet,5093
+update_status,5092
+clap,5090
+active_dynamodb,5082
+rack_clicky,5030
+Acts-as-rated,5028
+trust,5013
+workers,4989
+has_draft,4983
+deplot,4959
+Strip control chars,4958
+twitter-bootswatch-rails-helpers,4941
+Viewtastic,4939
+Jemini,4931
+Serviceproxy,4908
+pulsar,4896
+postgresql_cursor,4885
+code_rippa,4876
+gemrat,4847
+Prism,4820
+zeus-api,4813
+Highlight,4799
+Detest,4797
+Www-delicious,4788
+event_cal,4762
+Simple-gem,4741
+rebay,4738
+Amazon-product-advertising-api,4723
+system-metrics,4691
+sheets,4667
+Crate,4655
+classic_presenter,4650
+Qadmin,4637
+ews-api,4596
+Ink,4591
+workbook,4578
+Exception Engine,4578
+spinning_cursor,4574
+patchmaster,4558
+human_attribute,4554
+frenzy_bunnies,4542
+Dynamic reports,4524
+Rack::Fontserve,4509
+Subdomain routes,4493
+Object daddy,4466
+Wizardly,4460
+pakyow,4458
+recognition,4449
+fluidfeatures,4437
+exchanger,4432
+quantum_leap,4431
+http-requestor,4395
+fql,4383
+tinnef,4382
+mixpanel_rails,4372
+Bling,4370
+roleable,4335
+Hanoi,4319
+amberbit-config,4287
+rcsvreader,4283
+scorched,4269
+SubscriptionFu,4243
+Shadow,4205
+rubydoctest,4203
+time_travel,4202
+HammerBuilder,4197
+newman,4138
+Transactionata,4124
+windsor,4110
+qrscanner,4107
+coletivo,4104
+changeling,4094
+slowgrowl,4090
+resubject,4072
+cucover,4059
+attribute_choices,4055
+pdf_info,4011
+Screw-unit,4003
+config-me,3999
+yarn,3954
+zbar,3949
+instance_selector,3946
+config_newton,3932
+multitenant,3925
+gdal,3920
+acts_as_param,3920
+spy,3899
+jike_captcha,3897
+Slidedown,3887
+Captcha,3867
+s3utils,3838
+Static,3829
+ga_events,3818
+shrimp,3753
+Ruby-github,3745
+Jabs,3741
+easy_attributes,3737
+rapidash,3735
+persistent_httparty,3711
+data_active,3707
+Stupid formatter,3693
+I18nAutoScoping,3687
+shell-spinner,3682
+inkwell,3673
+cucumber-farmer,3666
+Micronaut,3660
+ofc2,3653
+mailit,3627
+const_enum,3610
+Markup,3590
+Regulate,3571
+fileuploader-rails,3563
+Filet,3539
+core_image,3509
+garnish,3484
+user_config,3472
+rails-translate-models,3462
+Appsta,3442
+gnip-rule,3414
+Jintastic,3369
+subly,3352
+Amnesia,3349
+rails_instrument,3338
+releasy,3336
+optionalargument,3336
+opds,3320
+mondrian-olap,3314
+rack-jquery,3300
+historical,3285
+Resque Mail Queue,3280
+Mongo-i18n,3271
+sortah,3258
+map_layers,3255
+rails-i18nterface,3252
+Spreadsheet report,3213
+i18n-tasks,3204
+best_in_placeish,3204
+wrap_excel,3200
+poke_js,3198
+rails_locale_detection,3194
+health_checker,3182
+patterns,3148
+rss-atom-feed_history,3127
+searchlight,3125
+dibber,3124
+Rcov plugin,3089
+job_reactor,3080
+hasherize_csv,3076
+taggregator,3075
+Redis Aid,3062
+Looper,3060
+diamond,3041
+html-schema,3036
+mongoid-encrypted-fields,2944
+albeano,2927
+clortho,2873
+reputation,2869
+cybele,2859
+xml_active,2854
+test_engine,2837
+danthes,2817
+gem-newgem,2796
+Which ruby,2776
+Paged scopes,2776
+spotlite,2774
+Later,2773
+motion-bundler,2763
+micromidi,2754
+mongoid_translate,2700
+rss-dcterms,2697
+Dynamicmatic,2695
+delegate_presenter,2679
+Has ratings,2677
+outlaw,2656
+monban,2649
+raygun4ruby,2646
+sxrb,2645
+commenter,2631
+whitelabel,2585
+ec2-blackout,2573
+Rack-coderay,2537
+cultome_player,2524
+sweet,2517
+dev_panel,2511
+qrtools,2503
+Fistface,2498
+Sortable,2493
+gmo,2491
+refinerycms-menus,2460
+metriksd,2457
+Externals,2451
+Flonkerton,2430
+best_in_place_mongoid,2429
+runkeeper,2413
+prawn-rails,2413
+Ruby-feedparser,2390
+rack-pygmentize,2358
+multitenant-mysql,2338
+simple_mock,2290
+Streamly,2289
+SexyScopes,2287
+sinew,2283
+Simple ldap authenticator,2278
+mocktra,2271
+mountain_berry_fields,2238
+webfinger,2232
+paypal-sdk-invoice,2222
+growlyflash,2119
+Tm syntax highlighting,2113
+Gitsu,2093
+c3po,2085
+how_slow,2076
+cheap_random,2052
+Screw-unit-server,2046
+twitter-bootswatch-rails-fontawesome,2045
+ruploy,2044
+saxy,2033
+golem_statemachine,2030
+cartographie,2022
+similus,1987
+Slope One,1985
+current_user,1956
+mongoid_form,1933
+ppe-georuby,1904
+georuby-ext,1887
+cargo_wiki,1867
+verified_double,1857
+gifbot,1852
+dotconfig,1839
+cucumber-pride,1817
+DocParser,1801
+half-pipe,1798
+FixtureReplacement,1793
+desviar,1780
+checkzilla,1763
+em-irc,1750
+Popthis,1734
+Has many friends,1721
+paranoid2,1708
+health_rails,1708
+rack-user-locale,1696
+mongoid-rating,1688
+ezgit,1679
+JCov,1645
+codesake-dawn,1631
+gambas,1629
+Rails metrics,1623
+talk_like_a_pirate,1596
+gerbil-rails,1590
+ci-go-nfo,1580
+fallen,1566
+benchmarkable,1542
+git_time_extractor,1534
+Is reviewable,1512
+destroyed_at,1511
+stevedore,1509
+rack-i18n_routes,1507
+ns_connector,1506
+Runner,1487
+opds_monster,1479
+multi_markdown,1470
+mail_room,1453
+rjiffy,1421
+arg0,1411
+gosu_android,1407
+raptest,1394
+Stylish,1392
+acts_as_executor,1383
+pin_up,1382
+moulin_rouge,1374
+Feedtosis,1369
+paypal_calculator,1368
+ruty,1343
+honor,1343
+simple_importer,1342
+alpaca,1337
+Harbor,1332
+Gitki,1294
+pagseguro_v2,1291
+rss-nokogiri,1282
+discuss,1253
+Model translations,1247
+Time-zone-warp,1243
+Sso what,1210
+htcp,1196
+goldberg,1185
+Webstats,1181
+georuby_remake,1175
+sprocketize,1163
+new_relic_ping,1154
+Opal,1135
+rss-opds,1129
+boris,1122
+Simply versioned,1121
+Testy,1109
+Right flexiscale,1104
+eztz,1093
+calendrier,1080
+redirect_on_back,1068
+colombo,1050
+rend-acl,1049
+tickspot-rb,1037
+Station,1035
+simply_paginate,1014
+octonore,1011
+feedly_api,1005
+rails_presenter,990
+cz_auth,984
+config_fun,984
+my_feeds,976
+customs,958
+Music player,946
+dotbox,937
+jackpot,908
+shellex,903
+georuby_box,895
+Korma,894
+raptor,891
+fileclip,883
+easy_table,863
+dynoid,863
+testrocket,833
+lita-irc,828
+multiengine,826
+groupme,815
+multitenant-pg,810
+rake_bubbler,798
+mocoso,765
+mundipagg,738
+kolb,735
+hashy,731
+rucursive,713
+chalk_dust,710
+url_scraper,709
+xmlrpc-rack_server,658
+ramenu,647
+yaga,632
+traduction,631
+dashing-rails,631
+debloy,625
+Viking,623
+nikkou,604
+smslist,586
+skeptick,572
+write_xlsx_rails,547
+cogbot,536
+pig_latin,512
+irc-qik-bot,509
+dynamojs_rails,496
+active_model_otp,425
+rgdal,411
+multi-step,394
+vkhater-redcarpet,365
+wwwtf,336
+vigil,290
+ruby-dmm,237
+runkeeper-activites,6
+thredded,0
+taskrey,0
+seven_minute_abs,0
+ruby-build,0
+reru_scrum,0
+rbfu,0
+rbenv,0
+railsyardcms,0
+railscrm,0
+rails3-application-templates,0
+rails-messaging,0
+myitcrm2,0
+masochism,0
+logstash,0
+less.rb,0
+ldap-activerecord-gateway,0
+juvia,0
+guiderails,0
+gitlabhq,0
+giddyup,0
+fulcrum,0
+forem,0
+chruby,0
+amon,0
+acts_as_archival,0
+Yui on rails,0
+Ym4r-gm,0
+Xss terminate,0
+Worker queue,0
+Wizard,0
+Wikipedia-api,0
+Whenever.js,0
+Weekly builder,0
+Weaky,0
+Utility-belt,0
+User stamp,0
+Ultraviolence,0
+Twitter-search,0
+Tufte-graph,0
+Travis,0
+Translate routes,0
+Tracktor,0
+To slug,0
+Testswarm,0
+Testjour,0
+Teambox,0
+Taskit,0
+Tab menu,0
+Tab fu,0
+Superdeploy,0
+Super inplace controls,0
+Summer,0
+Submarine,0
+Subdomain account,0
+Stump,0
+Stuffing,0
+Streamlined,0
+Sprinkles,0
+Smqueue,0
+Sluggable-finder,0
+Skyline,0
+Sirb,0
+Sinatra-rubygems,0
+Simple-captcha-mirror,0
+Signal-wiki,0
+Signal,0
+Shardthelove,0
+Semantic-menu,0
+Selenium-on-rails,0
+Scout-plugins,0
+Schedule fu,0
+Salty slugs,0
+S6,0
+Rvm.el,0
+Rucksack,0
+Ruby-date-recur,0
+Ruby-cloudfiles,0
+Ruby music projects,0
+Ruby gnuplot,0
+Rspec-distributed,0
+Rpg,0
+Roleify,0
+Role requirement,0
+RoR eCommerce,0
+Riotjs,0
+Rifgraf,0
+Retrospectiva,0
+Restful-authentication,0
+Rest in place,0
+Resources controller,0
+Reports as sparkline,0
+Report card,0
+Redmine,0
+Recurring event,0
+Record activities,0
+Rdefensio,0
+Raphael,0
+Rakki,0
+Rails-templates,0
+Rails-template,0
+Rails indexes,0
+Railfrog,0
+R18n,0
+Quick scopes,0
+Phd,0
+Pfeed,0
+Perwikity,0
+Passenger-stack,0
+Partially valid,0
+Parkaby,0
+Padlock authorization,0
+Oupsnow,0
+Open flash chart,0
+Octopress,0
+Nilify blanks,0
+Negative-captcha,0
+Munger,0
+Moonshine,0
+Mongo crm,0
+Minified cache,0
+Microformats helper,0
+Menu components,0
+Make resourceful,0
+Mail queue,0
+Mail fetcher,0
+Lucifer,0
+Lovd-by-less,0
+Lockbox,0
+Lazy high charts,0
+Laminate,0
+Kii,0
+Js-preprocessor,0
+Jrails in place editing,0
+Jquery-ui-rails-helpers,0
+Jquery-syntax,0
+Jquery-presentation,0
+Jquery-mockjax,0
+Jquery edit in place,0
+Job fu,0
+Jazztoolbox,0
+Is rateable,0
+Insoshi,0
+Inplace,0
+In place rich editing,0
+In place editor,0
+In place editing,0
+Im magick,0
+Ical-scheduler,0
+I18n backend database,0
+Hoboken,0
+Has profile items,0
+Has paginate,0
+Has calendar,0
+Harsh,0
+Graylog2,0
+Google charts,0
+Google ajax libraries api,0
+Git-wiki,0
+Geo mere laal,0
+Gem resolver,0
+Frontcompiler,0
+Freemium,0
+Forgetmenot,0
+Fontue,0
+Find mass assignment,0
+Fetcher,0
+Fat free crm,0
+Facebook chat,0
+Errbit,0
+Enginey,0
+Dotfiles,0
+DocumentUp,0
+Docbox,0
+Defensio-ruby,0
+Deep-test,0
+Db-populate,0
+Daemon generator,0
+Css dryer,0
+Cruisecontrol.rb,0
+Cross site sniper,0
+Crap4r,0
+Craken,0
+Couchrest-rails,0
+Cosy,0
+Coral,0
+Control center,0
+Context,0
+Communityengine,0
+Collective,0
+Cohort,0
+CoderDeck,0
+ChiliProject,0
+Can search,0
+Campaign-monitor-ruby,0
+Cached externals,0
+CSSS,0
+CBA,0
+Bundle-fu,0
+Brain buster,0
+Bootstrapper,0
+Blueprints,0
+Bluelightspecial,0
+Blue-ridge,0
+Bliki,0
+Blank-application,0
+Bigoldrailstemplate,0
+Big Tuna,0
+Better-edit-in-place,0
+Better nested set,0
+Beanstalkd,0
+Bats,0
+Backup fu,0
+Backgroundrb,0
+Background-fu,0
+Backdrop,0
+Babushka,0
+Authlogic ldap,0
+Audit mass assignment,0
+Attachment fu,0
+Assemblage,0
+Archaeopteryx,0
+Ansuz,0
+Ambitious query indexer,0
+Altered beast,0
+Ajaxful-rating,0
+Ajax-rdoc,0
+Air budd form builder,0
+Adva cms,0
+Actsaswizard,0
+Acts as wiki,0
+Acts as taggable redux,0
+Acts as soft deletable,0
+Acts as restricted subdomain,0
+Acts as network,0
+Acts as nested set,0
+Acts as loggable,0
+Acts as commentable with threading,0
+ABingo,0

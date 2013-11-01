@@ -22,10 +22,13 @@ File.open('gem_downloads.txt', 'w') do |file|
       downloads = item.at_css('.total_downloads .tipsy-n') 
       #Set nils to 0.
       downloads.nil? ? downloads = 0 : downloads = downloads.text
-      download_name << "[#{downloads}, #{name}]"
+      download_name << [downloads.to_i, name]
     end
   end
-  #Sort array for largest downloads first
-  file.write(download_name.sort!)
+  #Sort array into largest downloads first
+  sorted = download_name.sort.reverse
+  sorted.each do |project|
+    file.write("#{project[1]},#{project[0]}\n")
+  end
 end
 
