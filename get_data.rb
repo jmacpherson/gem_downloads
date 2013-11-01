@@ -2,29 +2,30 @@ require 'rubygems'
 require 'nokogiri'
 require 'open-uri'
 
-url = "http://toronto.kijiji.ca/f-vitamix-Classifieds-W0QQKeywordZvitamixQQisSearchFormZtrue"
-page = Nokogiri::HTML(open("http://toronto.kijiji.ca/f-vitamix-Classifieds-W0QQKeywordZvitamixQQisSearchFormZtrue"))
 
+doc = Nokogiri::HTML(open("https://www.ruby-toolbox.com/"))
+#Populate list with a list of links from the homepage to the gems
+links = doc.css('.link')
+#Create an array of the url link endings. Sort and delete empty.
+urls = links.map {|link| link.attribute('href').to_s }.sort.delete_if {|href| href.empty?}
 
-url_array = Nokogiri::HTML(open("https://www.ruby-toolbox.com/"))
-puts url_array.css(".link").href
+File.open('gem_downloads.txt', 'w') do |file|
+  #Declare array for results
+  download_name = Array.new
+  #iterate through each page
+  urls.each do |url|
+    #Go to each webpage
+    page = Nokogiri::HTML(open("https://www.ruby-toolbox.com/#{url}"))
+    #Iterate through each page extracting project names and download rates
+    page.css('.project').each do |item|
+      name = item.at_css('.project-label').text
+      downloads = item.at_css('.total_downloads .tipsy-n') 
+      #Set nils to 0.
+      downloads.nil? ? downloads = 0 : downloads = downloads.text
+      download_name << "[#{downloads}, #{name}]"
+    end
+  end
+  #Sort array for largest downloads first
+  file.write(download_name.sort!)
+end
 
-
-# File.open('data.txt', 'w') do
-
-
-# end
-
-# File.open('cities.txt', 'w') do |f|
-#   # Visit each webpage
-#   ["1", "151", "301", "451"].each do |url|
-#     page = Nokogiri::HTML(open("http://www.citymayors.com/statistics/largest-cities-mayors-#{url}.html"))
-#     # On each page, get the list of city names
-#     cities = page.css('table table tr td:nth-child(2) font')
-#     # Clean up each name and add it to the file on a new line
-#     cities.each do |city|
-#       city = city.text[/\w[\w\s]*/].downcase # regex and make lowercase
-#       f.write(city + "\n") if !city.nil? && city != "city" # "city" comes from the header
-#     end
-#   end
-# end
