@@ -36,5 +36,3 @@ index.write(
 </html>"
 
 )
-
-
