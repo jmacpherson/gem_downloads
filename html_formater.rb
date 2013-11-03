@@ -1,7 +1,12 @@
 class HtmlFormater
 
-  def self.format(data)
+  def self.format(data, height)
     index = File.open('./webpage/index.html', 'w')
+    total_gems = 0
+    data.each_value do |category|
+      total_gems += category.length
+    end
+    # puts total_gems
 
     index.write(
    "<html>

@@ -8,6 +8,7 @@ file = GetData.file_name
 puts "Formating data..."
 DataFormater.generate(file)
 categories = DataFormater.categorize
+# puts DataFormater.get_total()
 puts "Generating HTML file..."
 HtmlFormater.format(categories)
 
