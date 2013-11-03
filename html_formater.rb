@@ -1,12 +1,7 @@
 class HtmlFormater
 
-  def self.format(data, height)
+  def self.format(data, total_gems)
     index = File.open('./webpage/index.html', 'w')
-    total_gems = 0
-    data.each_value do |category|
-      total_gems += category.length
-    end
-    # puts total_gems
 
     index.write(
    "<html>
@@ -15,24 +10,29 @@ class HtmlFormater
     <body>
       <h1>Ranges of the total percentage of Gem downloads</h1>
       <div id='y-axis-values'>
-        <div class='y-axis-value'>1925</div>
+        <div class='y-axis-value'>#{total_gems}</div>
+        <div class='y-axis-value description'># of Gems</div>
         <div class='y-axis-value'>0</div>
       </div>
-      <div id='graph'>\n"
+      <div id='graph'>
+      \t"
     )
 
     data.each_key do |key|
-      height= data[key].length
+      height= (data[key].length.to_f / total_gems.to_f) * 100
+
       index.write (
-        "<div class='bar_wrapper' style='height:#{height}px'>
-          <div class='bar' data-name='#{key.to_s}'></div>
+        "<div class='bar_wrapper' data-name='#{key.to_s}'>
+          <div class='bar'  style='height:#{100 - height}%'></div>
         </div>"
         )
     end
 
     index.write(
 
-    "\n</body>
+    "\n\t\t\t<div id='category'>Hover to see category</div>
+    <script src='javascript.js'></script>
+    </body>
     </html>"
 
     )

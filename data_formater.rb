@@ -13,7 +13,12 @@ class DataFormater
 
   def self.categorize
     categorize_percent
-end
+  end
+
+  def self.get_total_gems(file)
+    data = get_data(file)
+    return data.length
+  end
 
   private
 
@@ -74,26 +79,18 @@ end
     return gem_sizes
   end
 
-  def self.list_data(file)
-    data = get_data(file)
-    return split_data(data)
-  end
-
   def self.get_data(file)
-    file = read_file(file)
-    data = file.read
-    return data
-  end
-
-  def self.split_data(data)
+    open_file = read_file(file)
+    data = open_file.read
     data = data.split("\n")
     list = data.map do |index|
       index.split(",")
     end
+    list
   end
 
   def self.to_integer(file)
-    list = list_data(file)
+    list = get_data(file)
 
     list.each do |item|
       item[1] =  item[1].to_i
@@ -102,7 +99,7 @@ end
   end
 
   def self.to_float(file)
-    list = list_data(file)
+    list = get_data(file)
 
     list.each do |item|
       item[1] =  item[1].to_f

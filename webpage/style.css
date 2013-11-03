@@ -1,9 +1,21 @@
+@font-face {
+  font-family: 'fontlero';
+  src: url('FONTLERO.TTF') format("truetype");
+}
+
+@font-face {
+  font-family: 'exo';
+  src: url("Exo-Regular.otf");
+}
+
 html {
-  font-family: "Helvetica Neue", sans-serif;
+  font-family: 'exo', 'fontlero', sans-serif;
+  color: white;
 }
 
 body {
   margin: 0;
+  background-color: #111111;
 }
 
 h1 {
@@ -18,11 +30,16 @@ h1 {
   height: 500px;
   width: 130px;
   position: relative;
+  margin-right: 60px;
 }
 
 .y-axis-value {
   position: absolute;
   right: 0;
+}
+
+.y-axis-value.description {
+  margin-top: 250px;
 }
 
 #y-axis-values .y-axis-value:last-child {
@@ -32,27 +49,36 @@ h1 {
 /* GRAPH AND BARS */
 
 #graph {
-  height: 1925px;
+  height: 500px;
   width: intrinsic;
-  background-color: red;
-  margin: 0 auto;
   clear: right;
+  float: left;
+  background-color: rgba(255, 0, 0, 0)
 }
 
 .bar_wrapper {
-  width: 10px;
+  width: 50px;
   float: left;
   height: 100%;
+  margin-right: 50;
+  background: rgb(169,3,41); /* Old browsers */
+  background: -moz-linear-gradient(top,  rgba(169,3,41,1) 0%, rgba(143,2,34,1) 44%, rgba(58,0,5,1) 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(169,3,41,1)), color-stop(44%,rgba(143,2,34,1)), color-stop(100%,rgba(58,0,5,1))); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  rgba(169,3,41,1) 0%,rgba(143,2,34,1) 44%,rgba(58,0,5,1) 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  rgba(169,3,41,1) 0%,rgba(143,2,34,1) 44%,rgba(58,0,5,1) 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  rgba(169,3,41,1) 0%,rgba(143,2,34,1) 44%,rgba(58,0,5,1) 100%); /* IE10+ */
+  background: linear-gradient(to bottom,  rgba(169,3,41,1) 0%,rgba(143,2,34,1) 44%,rgba(58,0,5,1) 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#3a0005',GradientType=0 ); /* IE6-9 */
 }
 
 .bar {
-  background-color: white;
+  background-color: #111111;
   width: 100%;
 }
 
-/* CITY NAME */
+/* CATEGORY */
 
-#city_name {
+#category {
   font-size: 20px;
   text-align: center;
   padding-top: 525px;

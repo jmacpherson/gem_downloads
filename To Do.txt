@@ -1,8 +1,0 @@
-To Do
-
-*Style HTML with CSS
-
-Done
-
-*Create runner which we run to generate all data
-*Create HTMl formatter
