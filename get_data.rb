@@ -6,7 +6,7 @@ class GetData
   @@time= Time.new
 
   def self.file_name
-    "gem_downloads_#{@@time.year}_#{@@time.month}_#{@@time.day}.txt"
+    "./gem_downloads_stats/gem_downloads_#{@@time.year}_#{@@time.month}_#{@@time.day}.txt"
   end
   
   def self.run

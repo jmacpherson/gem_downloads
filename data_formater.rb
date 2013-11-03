@@ -2,8 +2,10 @@
 
 class DataFormater
 
-  @time= Time.new
-  @file_name = "./gem_download_stats/gem_percent_#{@time.year}_#{@time.month}_#{@time.day}.txt"
+  # def initialize
+    @time= Time.new
+    @file_name = "./gem_percentages/gem_percent_#{@time.year}_#{@time.month}_#{@time.day}.txt"
+  # end
 
   def self.generate(file)
     percent_gen(file)
@@ -15,7 +17,7 @@ class DataFormater
 
   private
 
-    def percent_gen(file)
+    def self.percent_gen(file)
     gem_percentage = File.open(@file_name, 'w')
     total = get_total(file).to_f
     list = to_integer(file)
@@ -26,7 +28,7 @@ class DataFormater
     return list
   end
 
-  def categorize_percent
+  def self.categorize_percent
     data = to_float(@file_name)
     gem_sizes = {
       :above1 => [],
@@ -40,7 +42,7 @@ class DataFormater
       :fromP2toP3 => [],
       :fromP1toP2 => [],
       :from0toP1 => [],
-      :none => 0
+      :none => []
     }
 
     data.each do |item|
@@ -73,25 +75,25 @@ class DataFormater
     return gem_sizes
   end
 
-  def list_data(file)
+  def self.list_data(file)
     data = get_data(file)
     return split_data(data)
   end
 
-  def get_data(file)
+  def self.get_data(file)
     file = read_file(file)
     data = file.read
     return data
   end
 
-  def split_data(data)
+  def self.split_data(data)
     data = data.split("\n")
     list = data.map do |index|
       index.split(",")
     end
   end
 
-  def to_integer(file)
+  def self.to_integer(file)
     list = list_data(file)
 
     list.each do |item|
@@ -100,7 +102,7 @@ class DataFormater
     return list
   end
 
-  def to_float(file)
+  def self.to_float(file)
     list = list_data(file)
 
     list.each do |item|
@@ -109,11 +111,11 @@ class DataFormater
     return list 
   end
 
-  def read_file(file)
+  def self.read_file(file)
     file = File.open(file, 'r')
   end
 
-  def get_total(file)
+  def self.get_total(file)
     list = to_integer(file)
     total = 0
 

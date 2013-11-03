@@ -1,10 +1,7 @@
-require './data_formater.rb'
-
 class HtmlFormater
-  @data = DataFormater.categorize
 
-  def self.format
-    index = File.open('./webpage/index.html', 'a')
+  def self.format(data)
+    index = File.open('./webpage/index.html', 'w')
 
     index.write(
    "<html>
@@ -16,20 +13,21 @@ class HtmlFormater
         <div class='y-axis-value'>1925</div>
         <div class='y-axis-value'>0</div>
       </div>
-      <div id='graph'>"
+      <div id='graph'>\n"
     )
 
-    @data.each_key do |key|
-      height= @data[key].length
+    data.each_key do |key|
+      height= data[key].length
       index.write (
-        "<div class='bar_wrapper' data-name='#{key.to_s}'>
-          <div class='bar' style='height:#{height}%'></div>
+        "<div class='bar_wrapper' style='height:#{height}px'>
+          <div class='bar' data-name='#{key.to_s}'></div>
         </div>"
         )
+    end
 
     index.write(
 
-    "</body>
+    "\n</body>
     </html>"
 
     )
