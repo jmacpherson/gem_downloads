@@ -1,51 +1,14 @@
-require 'rubygems'
-
-def html_formater
-
-  index = File.open('index.html', 'a')
-
-  index.write(
-  "<!doctype html>
-  <html lang='en'>
-  <head>
-    <meta charset='UTF-8'>
-    <title>Gem Downloads</title>
-  </head>
-  <body>"
-  )
-
-  # data = data.split("\n")
-  # list = data.map do |index|
-  #   index.split(',')
-  # end
-
-  list = list_data("gem_downloads.txt")
-
-  list.each do |item|
-    index.write(
-    " <div class='wrapper' data-name='#{item[0]}'> 
-        <p>Ruby Gem #{item[0]} has #{item[1]} downloads.</p>
-      </div>" 
-    )
-  end
-    
-  index.write(
-
-  "</body>
-  </html>"
-
-  )
-end
+#A collection of methods to format the data we collect into various types and categories
 
 def list_data(file)
   data = get_data(file)
-  split_data(data)
+  return split_data(data)
 end
 
 def get_data(file)
   file = read_file(file)
   data = file.read
-  data
+  return data
 end
 
 def split_data(data)
@@ -53,11 +16,24 @@ def split_data(data)
   list = data.map do |index|
     index.split(",")
   end
+end
+
+def to_integer(file)
+  list = list_data(file)
 
   list.each do |item|
     item[1] =  item[1].to_i
-  end
+  end 
+  return list
+end
 
+def to_float(file)
+  list = list_data(file)
+
+  list.each do |item|
+    item[1] =  item[1].to_f
+  end 
+  return list 
 end
 
 def read_file(file)
@@ -65,27 +41,46 @@ def read_file(file)
 end
 
 def get_total(file)
-  list = list_data(file)
+  list = to_integer(file)
   total = 0
 
   list.each do |item|
-     total += item[1].to_i
+     total += item[1]
   end
-
-  # puts total
-  total
+  return total
 end
 
 def percent_gen(file)
   gem_percentage = File.open('gem_percent.txt', 'w')
   total = get_total(file).to_f
-  list = list_data(file)
+  list = to_integer(file)
 
   list.each do |item|
     gem_percentage.write( "#{item[0]},#{(item[1].to_f / total) * 100 }\n" )
   end
+  return list
 end
 
-percent_gen('gem_downloads.txt')
+def categorize_percent
+  data = to_float('gem_percent.txt')
+  gem_sizes = {
+    :large => 0,
+    :medium => 0,
+    :small => 0,
+    :none => 0 
+  }
 
+  data.each do |item|
+    if item[1] > 1
+      gem_sizes[:large] += 1
+    elsif item[1] < 1 && item[1] >= 0.1
+      gem_sizes[:medium] += 1
+    elsif item[1] < 0.5 && item[1] != 0
+      gem_sizes[:small] += 1
+    else
+      gem_sizes[:none] += 1
+    end   
+  end
+  return gem_sizes
+end
 
