@@ -14,20 +14,7 @@ def html_formater
   <body>"
   )
 
-  # data = data.split("\n")
-  # list = data.map do |index|
-  #   index.split(',')
-  # end
-
-  list = list_data("gem_downloads.txt")
-
-  list.each do |item|
-    index.write(
-    " <div class='wrapper' data-name='#{item[0]}'> 
-        <p>Ruby Gem #{item[0]} has #{item[1]} downloads.</p>
-      </div>" 
-    )
-  end
+  #generator to go here
     
   index.write(
 
