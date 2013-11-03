@@ -1,25 +1,38 @@
 require './data_formater.rb'
 
-def html_formater
+class HtmlFormater
+  @data = DataFormater.categorize
 
-  index = File.open('index.html', 'a')
+  def self.format
+    index = File.open('./webpage/index.html', 'a')
 
-  index.write(
-  "<!doctype html>
-  <html lang='en'>
-  <head>
-    <meta charset='UTF-8'>
-    <title>Gem Downloads</title>
-  </head>
-  <body>"
-  )
+    index.write(
+   "<html>
+    <link rel='stylesheet' type='text/css' href='style.css'>
+    <script src='http://ajax.googleapis.com/ajax/libs/jquery/2.0.0/jquery.min.js'></script>
+    <body>
+      <h1>Ranges of the total percentage of Gem downloads</h1>
+      <div id='y-axis-values'>
+        <div class='y-axis-value'>1925</div>
+        <div class='y-axis-value'>0</div>
+      </div>
+      <div id='graph'>"
+    )
 
-  #generator to go here
-    
-  index.write(
+    @data.each_key do |key|
+      height= @data[key].length
+      index.write (
+        "<div class='bar_wrapper' data-name='#{key.to_s}'>
+          <div class='bar' style='height:#{height}%'></div>
+        </div>"
+        )
 
-  "</body>
-  </html>"
+    index.write(
 
-  )
+    "</body>
+    </html>"
+
+    )
+  end
+
 end
